@@ -1,0 +1,27 @@
+{
+ "fecha": "2026-11-16",
+ "prov": "OpenAI",
+ "modelo": "gpt-6-luna",
+ "prov2": "OpenAI",
+ "n": 100,
+ "A": {
+  "ta": 0.95,
+  "fa": 0.01
+ },
+ "B": {
+  "ta": 0.87,
+  "fa": 0
+ },
+ "C": {
+  "ta": 0.67,
+  "fa": 0
+ },
+ "D": {
+  "ta": 0.94,
+  "fa": 0
+ },
+ "acierto1": 0.96,
+ "acierto2": 0.95,
+ "acuerdo": 0.98,
+ "precisionAcuerdo": 0.9693877551020408
+}
