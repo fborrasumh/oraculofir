@@ -1,13 +1,13 @@
 # Informe de extracción · OráculoFIR
 
-Generado: 2026-11-16T20:59:56+00:00
+Generado: 2026-11-16T21:22:36+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
 | 2009 (copia) | 260 | 5 | 254 | 6 | — | ✓ |
 | 2010 (copia) | 260 | 5 | 221 | 0 | — | ✓ |
 | 2011 (copia) | 260 | 5 | 234 | 0 | — | ✓ |
-| 2012 (copia) | 260 | 5 | 0 | 0 | — | ✓ |
+| 2012 (copia) | 260 | 5 | 191 | 0 | — | ✓ |
 | 2013 (copia) | 235 | 5 | 203 | 0 | — | ✓ |
 | 2014 (copia) | 235 | 5 | 211 | 0 | — | ✓ |
 | 2015 (copia) | 235 | 5 | 202 | 0 | — | ✓ |
@@ -23,6 +23,6 @@ Generado: 2026-11-16T20:59:56+00:00
 | 2025 | 210 | 4 | 206 | 4 | — | ✓ |
 | 2026 | 210 | 4 | 206 | 4 | — | ✓ |
 
-Preguntas totales: 4104 · clasificadas con IA: 0 · sin clasificar: 575 (14%)
+Preguntas totales: 4104 · clasificadas con IA: 4104 · sin clasificar: 0 (0%)
 
 Revisa a mano al menos 20 preguntas por año contra el PDF antes de fiarte de los datos.
