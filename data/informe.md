@@ -1,6 +1,6 @@
 # Informe de extracción · OráculoFIR
 
-Generado: 2026-11-16T20:44:09+00:00
+Generado: 2026-11-16T20:51:17+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@ Generado: 2026-11-16T20:44:09+00:00
 | 2016 (copia) | 235 | 4 | 225 | 10 | — | ✓ |
 | 2017 (copia) | 235 | 4 | 227 | 8 | — | ✓ |
 | 2018 (copia) | 235 | 4 | 225 | 10 | — | ✓ |
-| 2019 (copia) | 235 | 4 | 0 | 0 | — | ✓ |
+| 2019 (copia) | 235 | 4 | 233 | 2 | — | ✓ |
 | 2020 (copia) | 185 | 4 | 0 | 0 | — | ✓ |
 | 2021 (copia) | 185 | 4 | 182 | 3 | — | ✓ |
 | 2022 | 209 | 4 | 206 | 3 | — | ✓ |
