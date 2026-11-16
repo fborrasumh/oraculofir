@@ -1,0 +1,133 @@
+{
+ "_nota": "Copias de terceros de los cuadernos (versión 0) y plantillas definitivas oficiales del FIR para los años que el portal FSE ya no ofrece. Clave = año del EXAMEN (las «pruebas selectivas 2019» se examinaron en enero de 2020). Para cada año se dan los dos ficheros vecinos de La Chuleta del FIR (lachuletadelfir.com/examenes-fir-de-anos-anteriores), que los etiqueta por convocatoria; el código se queda con el que diga en su portada que es de ese año («PRUEBAS SELECTIVAS» + 1), comprueba que sea de Farmacia y de la versión 0, y que salgan las preguntas que anuncia.",
+ "2009": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2008.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2009_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/respuestas_2008.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2009.pdf"
+  ]
+ },
+ "2010": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2009_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2010_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2009.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2010.pdf"
+  ]
+ },
+ "2011": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2010_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2011_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2010.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2011.pdf"
+  ]
+ },
+ "2012": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2011_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2012_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2011.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2012.pdf"
+  ]
+ },
+ "2013": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2012_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2013_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2012.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2013.pdf"
+  ]
+ },
+ "2014": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2013_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/07/Cuaderno_2014_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuestas-2013.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/07/Cuaderno_2014_1_F_respuestas.pdf"
+  ]
+ },
+ "2015": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/07/Cuaderno_2014_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Examen-fir-2015.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/07/Cuaderno_2014_1_F_respuestas.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuesta-examen-2015.pdf"
+  ]
+ },
+ "2016": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Examen-fir-2015.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2017/04/Cuaderno_2016_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Respuesta-examen-2015.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2017/04/Cuaderno_2016_1_F_Respuestas.pdf"
+  ]
+ },
+ "2017": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2017/04/Cuaderno_2016_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2017_1_F.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2017/04/Cuaderno_2016_1_F_Respuestas.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Consulta-de-las-respuestas-correctas_2017.pdf"
+  ]
+ },
+ "2018": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Cuaderno_2017_1_F.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2019/02/Cuaderno_2018_FARMACIA_C.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2015/01/Consulta-de-las-respuestas-correctas_2017.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2019/02/Formación-Sanitaria-Especializada.pdf"
+  ]
+ },
+ "2019": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2019/02/Cuaderno_2018_FARMACIA_C.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2020/05/Cuaderno_2019_FARMACIA_C-1.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2019/02/Formación-Sanitaria-Especializada.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2020/05/Cuaderno_2019_FARMACIA_C-1-respuestas.pdf"
+  ]
+ },
+ "2020": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2020/05/Cuaderno_2019_FARMACIA_C-1.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2021/11/Cuaderno_2020_FARMACIA_0_C.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2020/05/Cuaderno_2019_FARMACIA_C-1-respuestas.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2021/11/Cuaderno_2020_FARMACIA_0_C_Respuestas.pdf"
+  ]
+ },
+ "2021": {
+  "cuaderno": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2021/11/Cuaderno_2020_FARMACIA_0_C.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2022/07/Cuaderno_2021_FARMACIA_0_C.pdf"
+  ],
+  "plantilla": [
+   "https://www.lachuletadelfir.com/wp-content/uploads/2021/11/Cuaderno_2020_FARMACIA_0_C_Respuestas.pdf",
+   "https://www.lachuletadelfir.com/wp-content/uploads/2022/07/Formacion-Sanitaria-Especializada_respuestas-2021.pdf"
+  ]
+ }
+}
