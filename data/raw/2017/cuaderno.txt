@@ -1,0 +1,2061 @@
+MINISTERIO DE SANIDAD, SERVICIOS SOCIALES E IGUALDAD
+PRUEBAS SELECTIVAS 2016
+CUADERNO DE EXAMEN
+FARMACÉUTICOS -VERSIÓN 0 -
+ADVERTENCIA IMPORTANTE
+ANTES DE COMENZAR SU EXAMEN, LEA ATENTAMENTE LAS SIGUIENTES
+INSTRUCCIONES
+1. MUY IMPORTANTE : Compruebe que este Cuaderno de Examen integrado por 225
+preguntas más 10 de reserva, lleva todas sus páginas y no tiene defectos de impre-
+sión. Si detecta alguna anomalía, pida otro Cuaderno de Examen a la Mesa. Realice
+esta operación al principio, pues si tiene que cambiar el cuaderno de examen poste-
+riormente, se le facilitará una versión "0", que no coincide con su versión personal en
+la colocación de preguntas y no dispondrá de tiempo adicional.
+2. Compruebe que el número de versión de examen que figura en su “Hoja de Res-
+puestas”, coincide con el número de versión que figura en el cuestionario. Compruebe
+también el resto de sus datos identificativos
+3. La “Hoja de Respuestas” está nominalizada. Se compone de dos ejemplares en papel
+autocopiativo que deben colocarse correctamente para permitir la impresión de las
+contestaciones en todos ellos. Recuerde que debe firmar esta Hoja.
+4. Compruebe que la respuesta que va a señalar en la “Hoja de Respuestas” correspon-
+de al número de pregunta del cuestionario. Sólo se valoran las respuestas marcadas
+en la “Hoja de Respuestas”, siempre que se tengan en cuenta las instrucciones conte-
+nidas en la misma.
+5. Si inutiliza su “Hoja de Respuestas” pida un nuevo juego de repuesto a la Mesa de
+Examen y no olvide consignar sus datos personales.
+6. Recuerde que el tiempo de realización de este ejercicio es de cinco horas improrro-
+gables y que están prohibidos el uso de calculadoras (excepto en Radiofísicos) y la
+utilización de teléfonos móviles, o de cualquier otro dispositivo con capacidad de al-
+macenamiento de información o posibilidad de comunicación mediante voz o datos.
+7. Podrá retirar su Cuaderno de Examen una vez finalizado el ejercicio y hayan sido re-
+cogidas las “Hojas de Respuesta” por la Mesa.
+- 1 -
+1. ¿Qué propiedad química del raltegravir y fár-
+macos relacionados explica su capacidad de
+inhibir la integrasa del virus VIH?:
+1. Son compuestos básicos, que una vez proto-
+nados bloquean un canal iónico asociado a la
+enzima.
+2. Son agentes alquilantes, capaces de unirse
+covalentemente a un resto de cisteína del si-
+tio activo de la enzima.
+3. Son agentes quelantes, capaces de coordinar-
+se a dos cationes Mg2+ del sitio activo de la
+enzima.
+4. Son análogos del estado de transición de la
+reacción de hidrólisis catalizada por la enzi-
+ma.
+2. El grupo Boc (t-butoxicarbonilo) se utiliza
+frecuentemente en la química combinatoria
+para proteger el grupo amino de los aminoáci-
+dos en la síntesis de péptidos en fase sólida.
+¿Qué reactivo se emplea para su posterior
+eliminación?:
+1. Ácido trifluoroacético.
+2. Piperidina en dimetilformamida.
+3. Hidrogenolisis.
+4. Ácido bromhídrico.
+3. ¿Qué imita el fragmento de hidroxietileno de
+un peptidomimético inhibidor de proteasa
+como el saquinavir?:
+1. El oxígeno de un enlace peptídico necesario
+para la unión al centro activo de la enzima.
+2. El estado de transición tetraédrico de la hi-
+drólisis de un enlace peptídico.
+3. La cadena lateral de un resto de serina.
+4. El grupo hidroxilo de un ácido aspártico en
+el centro activo.
+4. ¿Cuál de los factores que se indican explica la
+inhibición de la acetilcolinesterasa por ciertos
+carbamatos de arilo, como la fisostigmina o la
+neostigmina?:
+1. Estos fármacos se unen a un sitio alostérico
+de la enzima, lo que causa un cambio con-
+formacional en ésta que bloquea el acceso al
+sitio activo.
+2. El grupo carbamato presente en estos fárma-
+cos se coordina fuertemente a un catión Zn2+
+presente en el sitio activo de la enzima.
+3. Estos fármacos inhiben una ATPasa asociada
+a la enzima y que es necesaria para su activi-
+dad.
+4. Estos fármacos generan un derivado carba-
+moilado de un resto de serina del sitio activo
+de la enzima, que es difícil de hidrolizar a
+causa de su estabilidad.
+5. La clorotiazida es un diurético que surgió de la
+observación de diuresis como efecto secundario
+en un agente antibacteriano. ¿En cuál?:
+- 2
+1. Cloranfenicol.
+2. Sulfanilamida.
+3. Isoniazida.
+4. Metenamina.
+6. ¿Cuál de las siguientes reacciones del metabo-
+lismo de los fármacos corresponde a la fase
+II?:
+1. Hidroxilación aromática.
+2. Reducción del grupo nitro.
+3. Conjugación con aminoácidos.
+4. Hidrólisis del grupo éster.
+7. ¿Cuál de los siguientes fragmentos estructura-
+les, habituales en los antagonistas del receptor
+de angiotensina II, está ionizado a pH fisiológi-
+co por ser ácido?:
+1. Una subestructura de bifenilo.
+2. Un anillo de imidazol.
+3. Un anillo de tetrazol.
+4. Un grupo hidroxialquilo.
+8. ¿Cuál es el fármaco analgésico-
+antiinflamatorio que presenta un centro quiral
+o estereogénico?:
+1. Indometacina.
+2. Ibuprofeno.
+3. Paracetamol.
+4. Meloxicam.
+9. La reacción entre derivados de difenilamina y
+azufre, utilizando yodo como catalizador
+(reacción de Bernthsen), permite la obtención
+del núcleo heterocíclico característico de un
+grupo de fármacos antipsicóticos. ¿Cuál es?:
+1. Las butirofenonas.
+2. Las fenotiazinas.
+3. Los tioxantenos.
+4. Las dihidropiridinas.
+10. Las cefalosporinas semisintéticas se obtienen a
+partir del ácido 7-aminocefalosporánico (7-
+ACA), que se obtiene a su vez de la cefalospo-
+rina C natural mediante :
+1. Una hidrólisis con ácido clorhídrico diluido
+(6N).
+2. Tratamiento con PCl dando un iminocloru-
+5,
+ro, que por tratamiento con alcohol, se tras-
+forma en un iminoéter fácilmente hidroliza-
+ble.
+3. A partir del 6-APA (ácido 6-
+aminopenicilánico), por oxidación del azufre
+y posterior tratamiento con ácido p-
+toluensulfónico, dando un ácido sulfénico
+que provoca una expansión del ciclo penta-
+gonal.
+4. Hidrogenación catalítica del doble enlace,
+seguida de una desacetilación ácida y forma-
+2 -
+ción de la lactona con el grupo carboxílico
+adyacente, provocando una desacilación del
+sustituyente en la posición 7.
+11. Indique cuál de los siguientes grupos estructu-
+rales de fármacos NO actúan sobre los diferen-
+tes canales iónicos:
+1. Aminoésteres benzoicos (procaína).
+2. Benzotiazepinas (diltiazem).
+3. Triptaminas-5-sustituidas (sumatriptam).
+4. Sulfonilureas (tolbutamida).
+12. ¿Cuál de las siguientes afirmaciones referentes
+al clopidogrel es correcta?:
+1. Se une covalentemente a un resto de serina
+de la ciclooxigenasa.
+2. Es un profármaco activado por un proceso de
+reducción metabólica.
+3. Su diana es el receptor de tromboxanos, al
+que se une de forma reversible.
+4. Uno de sus metabolitos se une irreversible-
+mente a un residuo de cisteína de su recep-
+tor.
+13. ¿Cuál de los siguientes fármacos es un fármaco
+suicida?:
+1. Selegilina.
+2. Atorvastatina.
+3. Alopurinol.
+4. Lisinopril.
+14. La O-desalquilación de éteres es una reacción
+metabólica que se inicia con la hidroxilación
+del átomo de carbono unido al oxígeno para
+dar un intermedio que se descompone espon-
+táneamente. ¿De qué naturaleza es ese inter-
+medio?:
+1. Hemiaminal.
+2. Hemiacetal.
+3. Cianhidrina.
+4. Enol.
+15. ¿Cuál de las siguientes afirmaciones respecto a
+la fisiología y estructura de las micobacterias
+es cierta?:
+1. La pared celular es rica en lípidos, lo que
+convierte a la superficie en hidrofílica.
+2. El factor cordón (6´6´-dimicolato de trehalo-
+sa) es responsable de la alineación paralela
+de hileras de bacilos, una característica de las
+micobaterias de crecimiento rápido.
+3. Mycobacterium tuberculosis crece con lenti-
+tud.
+4. Las micobacterias fotocromógenas son aque-
+llas que sólo producen pigmentos tras expo-
+sición a la luz, mientras que las escotocro-
+mógenas sólo producen pigmentos en la os-
+curidad.
+- 3
+16. ¿Cuál es el agente etiológico de la leucoencefa-
+lopatía multifocal progresiva?:
+1. Poliomavirus JC.
+2. Virus de West Nile.
+3. Herpes virus humano tipo 6.
+4. Poliovirus.
+17. ¿Cuál es la técnica recomendada para com-
+probar la eficacia del tratamiento en la hepati-
+tis por el VHC?:
+1. Detección de DNA polimerasa.
+2. Evaluación clínica.
+3. Determinación de la carga viral.
+4. Detección de anticuerpos IgG frente al virus.
+18. ¿Cuál de las siguientes especies de Candida
+presenta resistencia intrínseca a fluconazol?:
+1. Candida albicans.
+2. Candida krusei.
+3. Candida tropicalis.
+4. Candida parapsilosis.
+19. ¿Cuál es el mecanismo de acción de la fosfomi-
+cina?:
+1. Inhibición de la DNA polimerasa.
+2. Inhibición de la síntesis de precursores del
+peptidoglicano.
+3. Inhibición del ensamblaje del peptidogli-
+cano.
+4. Metilación del RNA ribosomal.
+20. ¿Cuál de los siguientes antifúngicos actúa so-
+bre el 1,3 Beta-D glucano de la pared celular
+de los hongos?:
+1. Anfotericina B.
+2. Caspofungina.
+3. Voriconazol.
+4. Nistatina.
+21. ¿Cuál de los siguientes microorganismos NO
+crece en los medios de cultivo habituales usa-
+dos en el laboratorio de micobacteriología?:
+1. Mycobacterium tuberculosis.
+2. Mycobacterium avium.
+3. Mycobacterium leprae.
+4. Mycobacterium kansasii.
+22. El agar MacConkey es selectivo y diferencial
+para:
+1. Micobacterias.
+2. Estafilococos.
+3. Bacterias del género Vibrio.
+4. Bacilos Gram negativos.
+23. ¿Para cuál de los siguientes microorganismos
+se dispone de una vacuna eficaz?:
+3 -
+1. Clostridium perfringens.
+2. Neisseria gonorrhoeae.
+3. Streptococcus agalactiae.
+4. Haemophilus influenzae serogrupo B.
+24. ¿Cuál de las siguientes bacterias es la principal
+causa de diarrea asociada al uso de antibióti-
+cos?:
+1. Escherichia coli enterohemorrágico.
+2. Clostridium difficile.
+3. Salmonella enterica.
+4. Shigella sonnei.
+25. La tinción de Gram se basa en:
+1. La presencia de ácidos micólicos en la pared
+celular bacteriana.
+2. La presencia de cápsula en algunas bacterias.
+3. La diferente composición de la pared celular
+de bacterias Gram + y - .
+4. La presencia de esporas en algunas bacterias.
+26. ¿Cuál de las siguientes enfermedades infeccio-
+sas se considera una zoonosis?:
+1. Fiebre Q.
+2. Sífilis.
+3. Meningitis meningocócica.
+4. Rubeola.
+27. Con respecto a Strongyloides, ¿cuál de las si-
+guientes afirmaciones es cierta?:
+1. Es un trematodo de distribución mundial.
+2. La infección humana se adquiere cuando la
+larva filariforme de tercer estadio atraviesa la
+piel.
+3. Se diagnostica identificando sus huevos ca-
+racterísticos en las heces de la persona infec-
+tada.
+4. Las larvas rabditiformes se distinguen de las
+de uncinarias en su canal bucal, más largo en
+las de Strongyloides.
+28. ¿Cuál de los siguientes es vector de la
+Leishmania?:
+1. Anopheles gambiense.
+2. Aedes albopictus.
+3. Phlebotomus argentipes.
+4. Triatoma infestans.
+29. ¿Para cuál de las siguientes infecciones el
+trimetoprim/sulfametoxazol constituye el tra-
+tamiento de primera elección?:
+1. En la neumonía asociada a ventilación me-
+cánica por Pseudomonas aeruginosa.
+2. En la neumonía intersticial por Pneumocystis
+jiroveci.
+3. En la neumonía cavitada por Legionella
+pneumophila.
+4. En la neumonía necrosante polimicrobiana.
+- 4
+30. Mujer de 43 años que tras regresar de Mali
+presenta un cuadro de fiebre, malestar general
+y artromialgias. En la tinción de Giemsa se
+observan: glóbulos rojos parasitados aumenta-
+dos de tamaño con finos gránulos de Schüffner,
+trofozoítos maduros irregulares, ameboides y
+esquizontes con 12 – 24 merozoítos. No se
+observan gametocitos. ¿A qué especie de Plas-
+modium corresponde esta descripción?:
+1. Plasmodium falciparum.
+2. Plasmodium vivax.
+3. Plasmodium ovale.
+4. Plasmodium malarie.
+31. ¿Cuál de los siguientes parásitos es un proto-
+zoo flagelado?:
+1. Heterophyes heterophyes.
+2. Iodamoeba bütschlii.
+3. Paragonimus westermani.
+4. Naegleria fowleri.
+32. ¿Qué excipiente NO es de declaración obliga-
+toria en la elaboración de fórmulas magistra-
+les?:
+1. Dextrinomaltosa.
+2. Lactosa.
+3. Glucosa.
+4. Almidón de maíz.
+33. Sobre la preparación de fórmulas magistrales
+y preparados oficinales:
+1. La preparación de una fórmula magistral
+debe realizarse exclusivamente por el farma-
+céutico.
+2. Los preparados estériles se pueden elaborar
+en la misma zona de elaboración de prepara-
+dos oficinales ya que la contaminación cru-
+zada es mínima.
+3. La elaboración y control de la fórmula ma-
+gistral debe efectuarse en un local, o en una
+zona de preparación, situado en el interior de
+la oficina de farmacia.
+4. Los preparados oficinales pueden ser prepa-
+rados por cualquier persona sin cualificación
+y sin supervisión del farmacéutico, ya que
+pueden consultar su preparación en el formu-
+lario nacional.
+34. ¿Cuál de las siguientes formas farmacéuticas
+semisólidas con las que se puede preparar una
+fórmula magistral presenta mayor
+oclusividad?:
+1. Pomadas hidrófobas.
+2. Cremas hidrófobas o acuo-oleosas.
+3. Cremas hidrófilas u ole-acuosas.
+4. Pomadas hidrófilas.
+35. Para preparar una fórmula magistral con un
+4 -
+principio activo hidrosoluble se selecciona una
+pomada hidrófila ¿Qué excipientes fundamen-
+tales contiene una pomada hidrófila?:
+1. Vaselinas, aceites, ceras y siliconas.
+2. Vaselina, lanolina y alcoholes grasos.
+3. Macrogoles (PEG) líquidos y sólidos.
+4. Ungüento blanco: cera blanca (5%) y vaseli-
+na filante (95%).
+36. Para preparar una fórmula magistral tipo gel
+es necesario un polímero gelificante. ¿Cuál de
+las siguientes sustancias presenta una
+gelificación pH-dependiente?:
+1. Bentonita.
+2. Carbopol.
+3. Metilcelulosa.
+4. Polivinilpirrolidona.
+37. ¿Cómo se denominan las operaciones, inclui-
+das el envasado y etiquetado, a que se debe
+someter un producto a granel para convertirse
+en un producto terminado?:
+1. Acondicionamiento.
+2. Calibración.
+3. Elaboración.
+4. Preparación.
+38. La clorhexidina es químicamente incompatible
+con:
+1. Sustancias lipófilas.
+2. Jabones.
+3. Sustancias hidrófilas.
+4. Cetonas.
+39. Las ciclodextrinas utilizadas en la formación
+de complejos de inclusión son:
+1. Polisorbatos.
+2. Polímeros de N-vinilpirrolidona.
+3. Oligosacáridos cíclicos.
+4. Polímeros de carboximetilcelulosa.
+40. ¿Qué temperatura es necesario alcanzar para
+eliminar pirógenos por calor seco durante un
+tiempo mínimo de 30 minutos?:
+1. 250 ºC.
+2. 200 ºC.
+3. 160 ºC.
+4. 120 ºC.
+41. Señalar la respuesta correcta sobre el reflejo
+barorreceptor:
+1. Se estimula por el aumento de la Pco2.
+2. Su estimulación aumenta la actividad para-
+simpática.
+3. Su actuación provoca hipotensión ortostáti-
+ca.
+4. Regula la actividad cardiovascular.
+- 5
+42. La cantidad excretada en orina de cualquier
+sustancia es igual a :
+1. La cantidad filtrada, más la cantidad reab-
+sorbida, menos la secretada.
+2. La cantidad filtrada, menos la cantidad reab-
+sorbida, más la secretada.
+3. La cantidad filtrada, menos la cantidad reab-
+sorbida, menos la secretada.
+4. La suma de la cantidad filtrada, la cantidad
+reabsorbida, y la secretada.
+43. ¿Cómo se inicia la contracción muscular?:
+1. Mediante señales del calcio (Ca 2+).
+2. Por la formación de ATP a partir de ADP +
+Pi.
+3. Mediante la hidrólisis de puentes cruzados.
+4. Por la elongación del sarcómero.
+44. Los receptores nicotínicos son:
+1. Receptores colinérgicos.
+2. Receptores ionotrópicos.
+3. Receptores metabotrópicos.
+4. Receptores adrenérgicos.
+45. En el sentido de la audición, las señales
+recibidas por el encéfalo se interpretan en el:
+1. Lóbulo occipital.
+2. Lóbulo parietal.
+3. Lóbulo frontal.
+4. Lóbulo temporal.
+46. ¿A cuál de los siguientes grupos sanguíneos
+puede donar sangre sin peligro de incompatibi-
+lidad un donante con un grupo sanguíneo AB y
+Rh negativo?:
+1. Grupo AB y Rh positivo.
+2. Grupo 0 y Rh positivo.
+3. Grupo A y Rh positivo.
+4. Grupo B y Rh positivo.
+47. ¿Qué hormona es determinante para el desa-
+rrollo y mantenimiento de la función del cuer-
+po lúteo durante los primeros días que siguen a
+la ovulación en un ciclo ovárico sin fecunda-
+ción?:
+1. hGC.
+2. GH.
+3. ACTH.
+4. LH.
+48. ¿Cómo se denomina la conexión directa entre
+una arteria y una vena sin que exista una red
+capilar entre ambos vasos?:
+1. Sistema porta.
+2. Aneurisma arterial.
+3. Anastomosis arteriovenosa.
+5 -
+4. Entomosis capilar.
+49. ¿Cuál de las siguientes relaciones entre las
+concentraciones de iones en el plasma humano
+normal es correcta?:
+1. Sodio<Potasio.
+2. Cloruro>Sodio.
+3. Bicarbonato<Calcio.
+4. Cloruro>Bicarbonato.
+50. ¿Qué bomba es importante para la secreción
+de ácidos biliares a nivel de la membrana cana-
+licular del hepatocito?:
+1. MRP3.
+2. BSEP.
+3. ABCG5.
+4. MDR1.
+51. ¿A partir de qué compuesto y dónde se produ-
+ce mayoritariamente la adrenalina?:
+1. A partir de tirosina en la médula adrenal.
+2. A partir de tirosina en la corteza adrenal.
+3. A partir de triptófano en la médula adrenal.
+4. A partir de triptófano en la glándula pineal.
+52. ¿Dónde se encuentran las células endocrinas
+que secretan la mayor parte de la prolactina
+humana?:
+1. Adenohipófisis.
+2. Neurohipófisis.
+3. Ovario.
+4. Glándula mamaria.
+53. ¿Cuál de los siguientes derivados de la vitami-
+na D es la forma más activa generada en el
+riñón?:
+1. El 1,24-dihidroxi-colecalciferol.
+2. El 1,25-dihidroxi-colecalciferol.
+3. El 1,24, 26-trihidroxi-colecalciferol.
+4. El 25-hidroxi-colecalciferol.
+54. ¿Cómo se denominan los eritrocitos deforma-
+dos con aspecto espiculado?:
+1. Falciformes.
+2. Drepanocitos.
+3. Esquistocitos.
+4. Equinocitos.
+55. ¿Cuál de los siguientes es un tipo de célula
+precursora en la génesis de los glóbulos rojos?:
+1. Mieloblasto.
+2. Cayado.
+3. Mielocito.
+4. Reticulocito.
+56. En condiciones fisiológicas la mayoría de los
+leucocitos que se encuentran en la sangre son:
+- 6
+1. Linfocitos.
+2. Monocitos.
+3. Neutrófilos.
+4. Eosinófilos.
+57. Mujer de 32 años, grupo sanguíneo 0 Rh nega-
+tivo, en su segundo mes de su segundo embara-
+zo. Primer hijo grupo A Rh positivo.
+¿Qué estudio debemos realizar para descartar
+sensibilización al Rh positivo?:
+1. Hemograma y bioquímica general con LDH
+y Bilirrubina.
+2. Test de Coombs indirecto.
+3. Test de Coombs directo.
+4. Estudio de grupo sanguíneo en la pareja.
+58. ¿Cuál de estas anomalías morfológicas NO
+pertenece a la serie roja?:
+1. Esquistocitos.
+2. Drepanocitos.
+3. Corpúsculos de Howell - Jolly.
+4. Bastones de Auer.
+59. Con respecto a los eosinófilos, indique cuál es
+la respuesta FALSA:
+1. Constituyen el 2-3 % del total de leucocitos.
+2. Tiene capacidad de adherirse a los parásitos
+y liberar sustancias tóxicas para ellos.
+3. Su capacidad fagocítica es superior a la de
+los neutrófilos.
+4. Se elevan en reacciones alérgicas.
+60. Entre los trastornos que pueden ocasionar una
+hemorragia NO se encuentra:
+1. Déficit de antitrombina III.
+2. Déficit de vitamina K.
+3. Hepatopatía.
+4. Trombocitopenia.
+61. La eritropoyetina:
+1. Disminuye en condiciones de hipoxia.
+2. Se sintetiza mayoritariamente en el riñón.
+3. Disminuye la producción de hematíes.
+4. Es un neurotransmisor.
+62. Paciente con anemia, proteínas plasmáticas
+altas, alteraciones óseas y renales, pico mono-
+clonal en el proteinograma. En la extensión de
+sangre periférica se observan eritrocitos for-
+mando “pilas de moneda”. ¿Cuál es el diagnós-
+tico más probable?:
+1. Infección vírica.
+2. Mieloma múltiple.
+3. Leucemia linfática crónica.
+4. Mononucleosis infecciosa.
+63. En la fase de “automatismo o actividad refleja
+6 -
+excesiva” del síndrome de sección medular se
+produce:
+1. Retención de orina y heces.
+2. Parálisis hipotónica y arrefléxica.
+3. Síndrome piramidal.
+4. Inhibición de los centros medulares al no
+recibir impulsos de estructuras superiores.
+64. ¿Cuál de las siguientes patologías tiene su ori-
+gen en la detención del flujo biliar que impide
+parcial o totalmente la llegada de bilis al duo-
+deno?:
+1. Colelitiasis.
+2. Colangitis.
+3. Colecistitis.
+4. Colestasis.
+65. La degeneración de las neuronas dopaminérgi-
+cas del sistema nigroestriado se produce en el
+curso de:
+1. La enfermedad de Parkinson.
+2. El síndrome piramidal.
+3. La enfermedad de Huntington.
+4. La enfermedad de Alzheimer.
+66. El neumotórax se produce como consecuencia
+de la entrada de aire en:
+1. El espacio intersticial.
+2. El espacio alveolar.
+3. El espacio pleural.
+4. El espacio peribronquial.
+67. ¿Cuál de las siguientes manifestaciones NO es
+característica del hipoestrogenismo en el pe-
+riodo pospuberal?:
+1. Esterilidad.
+2. Amenorrea primaria.
+3. Osteoporosis.
+4. Aumento del riesgo cardiovascular.
+68. La diarrea osmótica se produce como conse-
+cuencia de:
+1. Una retención de sustancias no absorbibles
+en la luz intestinal.
+2. La superación de la capacidad de absorción
+intestinal por el incremento en la secreción
+de agua y solutos.
+3. La hiperproducción de péptidos digestivos.
+4. Un desequilibrio en la inervación simpática-
+parasimpática del intestino.
+69. Un individuo que sufre una intensa reacción
+anafiláctica tiene el riesgo de desarrollar un
+shock:
+1. Distributivo.
+2. Hipovolémico.
+3. Cardíaco.
+- 7
+4. Obstructivo.
+70. ¿Cuál de las siguientes manifestaciones NO
+aparece en el síndrome nefrótico?:
+1. Edema.
+2. Proteinuria.
+3. Poliuria.
+4. Hiperlipidemia.
+71. ¿Cuál de las siguientes alteraciones del meta-
+bolismo de aminoácidos es ocasionada por un
+déficit de vitamina B ?:
+12
+1. Acidemia metil-malónica.
+2. Hiperfenilalaninemia fenilcetonúrica.
+3. Hipertirosinemia tipo I.
+4. Alcaptonuria.
+72. ¿Cuál de los déficits de actividad en las si-
+guientes enzimas del ciclo de la urea puede
+provocar una orótico aciduria, además de
+hiperamonemia?:
+1. Ornitina transcarbamilasa.
+2. Arginasa.
+3. Arginino succinato sintasa.
+4. Carbamoil fosfato sintetasa.
+73. La enfermedad de von Gierke, o glucogenosis
+del tipo I, se debe a una mutación de la enzima
+glucosa-6 fosfatasa o de la translocasa de glu-
+cosa-6 fosfato. Una importante manifestación
+clínica de esta patología es:
+1. Hipoglucemia tras la ingesta de una comida
+rica en fructosa.
+2. Alteraciones neurológicas derivadas de la
+acumulación de glucógeno en el SNC.
+3. Hipoglucemia en ayunas.
+4. Intolerancia al ejercicio por imposibilidad de
+degradar el glucógeno de la fibra muscular.
+74. La fenilcetonuria se produce como consecuen-
+cia del déficit de fenilamina hidroxilasa y re-
+percute gravemente sobre el sistema nervioso
+central. Su modo de transmisión hereditaria es
+el siguiente:
+1. Transmisión autosómica y recesiva.
+2. Transmisión ligada al cromosoma X.
+3. Transmisión autosómica y dominante.
+4. Es transmitida por la madre, porque el gen se
+encuentra en el cromosoma mitocondrial.
+75. ¿Cuál de los siguientes acontecimientos se pro-
+duce cuando la insulina se une a su receptor?:
+1. Aumenta la cantidad de restos de treonina
+fosforilada en las subunidades ɑ del receptor.
+2. Aumenta la cantidad de restos de serina y
+treonina fosforiladas en la parte extracelular
+del receptor.
+3. El receptor cataliza su propia fosforilación
+7 -
+en restos de tirosina de su parte citosólica.
+4. El receptor se autofosforila en la región ex-
+tracelular donde se ponen en contacto sus
+cadenas ɑ y β.
+76. El transporte a través de membrana por difu-
+sión facilitada, utiliza:
+1. Canales iónicos.
+2. Proteínas transportadoras.
+3. ATP- asas.
+4. Segundos mensajeros.
+77. Los derivados antraquinónicos ejercen su efec-
+to laxante a través del siguiente mecanismo:
+1. Atracción de agua a la luz intestinal por ós-
+mosis.
+2. Irritación directa de la mucosa o estimula-
+ción de plexos nerviosos.
+3. Favoreciendo la lubricación y cambio de
+consistencia del bolo fecal.
+4. Estimulación de la actividad motora por in-
+cremento del contenido intestinal.
+78. Los fármacos inhibidores de la bomba de pro-
+tones:
+1. Actúan selectiva e irreversiblemente sobre la
+célula parietal de la mucosa.
+2. Presentan como núcleo estructural común un
+anillo furánico.
+3. No tienen actividad sobre la secreción ácida
+gástrica basal.
+4. Reaccionan con el ácido clorhídrico de la luz
+gástrica, neutralizándole.
+79. Una complicación muy grave producida du-
+rante la anestesia general con los anestésicos de
+inhalación y que se caracteriza por un estado
+hipermetabólico del músculo esquelético:
+1. Es tratada con relajante musculares como la
+succinilcolina.
+2. Se desencadena por opioides.
+3. Se manifiesta con una parálisis muscular.
+4. Se denomina hipertermia maligna.
+80. ¿Cuál de los siguientes efectos adversos NO es
+característico de fármacos opioides?:
+1. Aumento de la diuresis.
+2. Estreñinimiento.
+3. Somnolencia.
+4. Náuseas y vómitos.
+81. ¿Cuál de estos fármacos es un anticuerpo mo-
+noclonal humano que actúa contra la IL17A,
+citoquina proinflamatoria, mediadora de la
+actividad inflamatoria de la psoriasis?:
+1. Secukinumab.
+2. Etanercept.
+3. Adalimumab.
+- 8
+4. Infliximab.
+82. Omalizumab es un anticuerpo monoclonal
+humanizado utilizado para el tratamiento de:
+1. Asma alérgica grave.
+2. Leucemia linfocítica crónica.
+3. Cáncer colorrectal metástatico.
+4. Hemoglobinuria paroxística nocturna.
+83. ¿Cuál de estos fármacos antiepilépticos está
+indicado para su uso en las crisis agudas de
+manía?:
+1. Topiramato.
+2. Lamotrigina.
+3. Carbamazepina.
+4. Gabapentina.
+84. La flutamida está indicada en el tratamiento
+de:
+1. Psoriasis.
+2. Cáncer de próstata hormonodependiente.
+3. Cáncer de mama dependiente de estrógenos.
+4. Osteoporosis.
+85. ¿Cuál es el mecanismo de acción de infliximab
+en el tratamiento de la artritis?:
+1. Activación de linfocitos B.
+2. Aumento de los niveles de leucotrienos.
+3. Inhibición selectiva de cicloxigenasa-2
+(COX-2).
+4. Inhibición de los efectos del TNF-ɑ.
+86. ¿Cuál es el mecanismo de acción de
+rivaroxabán?:
+1. Es un inhibidor de la síntesis de vitamina K.
+2. Es un activador del plasminógeno tisular
+humano.
+3. Es un inhibidor directo del factor X activado.
+4. Es un inhibidor directo de la trombina.
+87. El prasugrel se utiliza en terapéutica por sus
+propiedades:
+1. Antiagregantes plaquetarias.
+2. Antianginosas.
+3. Antineoplásicas.
+4. Antihipertensivas.
+88. La desmopresina:
+1. Es un análogo peptídico de la oxitocina.
+2. Se usa para la supresión de testosterona en el
+tratamiento del cáncer de próstata.
+3. Se utiliza en el diagnóstico y tratamiento de
+la diabetes insípida central.
+4. Es un análogo de la gonadorelina utilizado
+en el tratamiento del cáncer de mama.
+89. El zolpidem:
+8 -
+1. Es un antidepresivo inhibidor selectivo de la
+recaptación de serotonina.
+2. Actúa sobre receptores GABA-B.
+3. Es un antipsicótico atípico.
+4. Es una imidazopiridina hipnótica.
+90. Cuál de las siguientes respuestas es caracterís-
+tica del captopril:
+1. Actúa como profármaco que precisa trans-
+formación previa a nivel hepático.
+2. Provoca un bloqueo competitivo del receptor
+AT1.
+3. Reduce la concentración de renina en sangre.
+4. Ha demostrado eficacia en la prevención de
+la nefropatía diabética.
+91. El mecanismo de acción de venlafaxina
+consiste en:
+1. Acción antagonista alfa1 y alfa2.
+2. Inhibición de la recaptación de dopamina y
+noradrenalina.
+3. Inhibición de la recaptación de serotonina y
+noradrenalina.
+4. Antagonista de los receptores 5TH2A.
+92. ¿Cuál de los siguientes fármacos se administra
+como profilaxis a largo plazo de la angina de
+pecho estable con intolerancia a los beta-
+adrenergicos:
+1. Ivabradina.
+2. Mononitrato de isosorbida.
+3. Trinitrato de glicerilo.
+4. Verapamilo.
+93. Linezolid es un antimicrobiano activo frente a
+Gram +. ¿Cuál de estos efectos secundarios
+habría que monitorizar durante el uso de Li-
+nezolid?:
+1. Elevación de ALT/AST.
+2. Trombopenia.
+3. Neutropenia.
+4. Hiponatremia.
+94. De las siguientes moléculas, ¿Cuál es una ago-
+nista estereoselectivo del receptor GABA ?:
+B
+1. Diazepam.
+2. Fenobarbital.
+3. Baclofeno.
+4. Midazolam.
+95. Cuál de estos fármacos es utilizado como
+antiagregante plaquetario, antagonista rever-
+sible del receptor P2Y12:
+1. Clopidogrel.
+2. Ácido acetilsalicílico.
+3. Tirofiban.
+4. Ticagrelor.
+- 9
+96. Los hipnóticos están contraindicados en:
+1. Alcohólicos crónicos porque se reduce su
+margen de seguridad.
+2. En el último trimestre del embarazo.
+3. Pacientes con edad avanzada.
+4. En pacientes en tratamiento con síndrome de
+abstinencia por alcohol.
+97. La tos persistente y seca y la hipopotasemia
+son efectos adversos de:
+1. Hidroclorotiazida.
+2. Losartán.
+3. Furosemida.
+4. Lisinopril.
+98. En relación con la eplerenona en el tratamien-
+to de la insuficiente cardiaca:
+1. Es un diurético de primera elección en el
+tratamiento de los síntomas clínicos (disnea,
+edema).
+2. Es un antagonista de los receptores de aldos-
+terona.
+3. Asociado a la digoxina reduce la mortalidad
+cardiovascular.
+4. Es un potente vasodilatador arteriovenoso.
+99. ¿Cuál de los antineoplásicos reseñados tiene
+como diana el factor de crecimiento epidérmi-
+co humano (HER-2) en el tratamiento de cán-
+cer de mama?:
+1. Bevacizumab.
+2. Imatinib.
+3. Rituximab.
+4. Trastuzumab.
+100. ¿Qué fármaco reduce la presión intraocular en
+el glaucoma por bloqueo de receptores β-
+adrenérgicos?:
+1. Timolol.
+2. Bimatoprost.
+3. Tropicamida.
+4. Pilocarpina.
+101. ¿Cuál de las siguientes combinaciones de fár-
+macos puede precipitar la aparición de un
+síndrome serotoninérgico?:
+1. Venlafaxina y tranilcipromina.
+2. Paracetamol y metformina.
+3. Ciprofloxacino y ondansetrón.
+4. Voriconazol y tacrolimus.
+102. ¿Cuál de los siguientes fármacos puede produ-
+cir síndrome neuroléptico maligno como efecto
+adverso?:
+1. Metformina.
+2. Bisoprolol.
+9 -
+3. Haloperidol.
+4. Omeprazol.
+103. ¿Cuál de los siguientes fármacos es de elección
+para el tratamiento de la hipertensión arterial
+durante el embarazo?:
+1. Aliskirén.
+2. Enalapril.
+3. Losartán.
+4. Metildopa.
+104. El tratamiento de la hipertensión y de la hiper-
+trofia prostática constituyen las dos principales
+indicaciones de:
+1. Agonistas β -adrenérgicos.
+2
+2. Bloqueantes de los canales de calcio.
+3. Antagonistas ɑ -adrenérgicos.
+1
+4. Antagonistas de receptores ɑ y β.
+1
+105. Entre las propiedades atribuidas al bulbo de
+Allium sativum podemos mencionar:
+1. Actividad antiinflamatoria.
+2. Actividad hipertensiva.
+3. Actividad laxante.
+4. Actividad antiagregante.
+106. Con respecto a la actividad farmacológica de la
+artemisinina (lactona sesquiterpénica) extraída
+de la Artemisa annua:
+1. Es un potente hepatoprotector.
+2. Es un antimalárico selectivo.
+3. Es un potente antitumoral.
+4. Es un potente colagogo.
+107. Con respecto al esteviosido, podemos afirmar
+que es:
+1. Un flavolignano extraído de raíces de Stevia
+rebaudiana, con efecto antitumoral.
+2. Un diterpeno extraído de hojas de Stevia
+rebaudiana, con efecto edulcorante.
+3. Un alcaloide bencilisoquinoléico extraído de
+rizomas de Stevia rebaudiana, con potente
+actividad antitumoral.
+4. Un flavonol extraído de hojas de Stevia re-
+baudiana, con efecto antiinflamatorio.
+108. La vinblastina y la vincristina son alcaloides
+indolmonoterpénicos:
+1. Extraídos de hojas de Vinca major, con acti-
+vidad antiarrítmica.
+2. Extraídos de esclerocios de Claviceps purpú-
+rea, con actividad oxitócica.
+3. Extraídos de hojas de Catharantus roseus,
+con actividad antitumoral.
+4. Extraídos de semillas de Physostigma vene-
+nosum, con actividad parasimpáticomiméti-
+ca.
+- 1
+109. El acrónimo LADME se refiere a los principa-
+les procesos biofarmacéuticos y farmacocinéti-
+cos. ¿Qué proceso NO corresponde con ningu-
+na de las siglas acrónimo LADME?:
+1. Liberación.
+2. Absorción.
+3. Distribución.
+4. Eliminación.
+110. ¿Cuál es el mejor indicador de la función renal
+de un paciente, para ajustar las dosis de los
+medicamentos de eliminación renal?:
+1. Creatinina sérica.
+2. Urea plasmática.
+3. Aclaramiento de creatinina.
+4. Tasa de secreción tubular.
+111. Respecto a la fijación proteica de los fármacos
+a nivel plasmático o tisular, es cierto que:
+1. El aclaramiento hepático depende exclusi-
+vamente de la actividad enzimática de los
+hepatocitos.
+2. La unión a las proteínas plasmáticas es un
+fenómeno regulador de la excreción renal de
+los fármacos.
+3. Solo la forma ionizada e hidrosoluble de un
+fármaco puede reabsorberse en los túbulos
+renales.
+4. La no linealidad de la cinética solo se mani-
+fiesta en el caso de saturación de los siste-
+mas enzimáticos.
+112. ¿Cuál de los siguientes factores NO modifica la
+absorción?:
+1. El pH gástrico.
+2. El vaciado gástrico.
+3. Las propiedades fisicoquímicas del com-
+puesto.
+4. El flujo sanguíneo gástrico.
+113. ¿En qué parámetro farmacocinético se basa la
+frecuencia de administración?:
+1. Constante de eliminación.
+2. El área bajo la curva.
+3. La concentración mínima eficaz.
+4. La tasa de extracción renal.
+114. ¿Qué fármaco requiere una disminución de la
+dosis de un paciente con insuficiencia renal
+grave?:
+1. Morfina.
+2. Carbamazepina.
+3. Midazolam.
+4. Digoxina.
+115. ¿Cuál de los siguientes fármacos tiene un efec-
+to de primer paso hepático importante (más
+del 40%)?:
+10 -
+1. Morfina.
+2. Ciprofloxacino.
+3. Digoxina.
+4. Amoxicilina.
+116. Si un fármaco presenta cinética de eliminación
+de orden CERO, ¿Qué fórmula tendría la grá-
+fica que describe la evolución de la eliminación
+(concentraciones versus tiempo), en una escala
+sin transformar?:
+1. Curva exponencial.
+2. Línea recta.
+3. Asintótica descendente.
+4. Hipérbola.
+117. En un modelo monocompartimental, la dosis
+de choque o carga intravenosa para alcanzar el
+equilibrio desde el primer instante, para un
+fármaco que sigue cinética lineal y se adminis-
+tra por perfusión intravenosa a velocidad cons-
+tante, se puede calcular mediante:
+1. El cociente entre la concentración en estado
+de equilibrio y el volumen aparente de dis-
+tribución.
+2. La dosis de mantenimiento o velocidad de
+perfusión, K (mg/h), multiplicada por el
+0
+aclaramiento.
+3. El cociente entre la velocidad de perfusión
+K (mg/h) y la constante de eliminación
+0
+(1/h).
+4. El cociente entre la velocidad de perfusión
+K (mg/h) y la semivida de eliminación (h).
+0
+118. En un modelo de distribución de dos compar-
+timentos, ¿qué representan los siguientes vo-
+lúmenes: volumen de distribución en estado de
+equilibrio estacionario, volumen extrapolado y
+volumen beta o volumen área?:
+1. Son volúmenes aparentes de distribución
+total.
+2. El volumen fisiológico en el que se distribu-
+ye el fármaco.
+3. El volumen total de agua del organismo en el
+que se disuelve el fármaco.
+4. El volumen del compartimento periférico.
+119. Al sitio II de unión de la albúmina se unen
+distintos fármacos. ¿Qué fármaco se utiliza
+como marcador de este sitio de unión?:
+1. Warfarina.
+2. Diazepam.
+3. Fentanilo.
+4. Furosemida.
+120. ¿A qué se debe que la cinética de eliminación
+de la mayor parte de los fármacos sea pseudo-
+lineal o de primer orden?:
+1. Las dosis empleadas en terapéutica son me-
+- 1
+nores que la velocidad máxima.
+2. Las concentraciones terapéuticas son habi-
+tualmente mayores que la constante de Mi-
+chaelis (Km).
+3. La velocidad máxima es menor que la Km .
+4. Las concentraciones usadas en terapéutica de
+la mayor parte de los fármacos son muy infe-
+riores a los valores de la Km.
+121. ¿Qué sustancia se utiliza como biomarcador
+del agua corporal total?:
+1. Albúmina.
+2. Azul de Evans.
+3. Antipirina.
+4. Inulina.
+122. La insuficiencia renal aumenta la fracción
+libre de algunos fármacos como la fenitoína y
+ello tiene como consecuencia:
+1. Una disminución de los valores de ventana o
+margen terapéutico de concentraciones tota-
+les de fenitoína.
+2. Un aumento de la cantidad disponible de
+albúmica sérica.
+3. Un aumento de la ventana o margen terapéu-
+tico de concentraciones libres de fenitoína.
+4. Una inducción enzimática del citocromo
+P450.
+123. El ácido retinoico interviene en:
+1. La síntesis de la vitamina A.
+2. La señalización neuronal.
+3. La visión.
+4. La regeneración de la epidermis.
+124. Las siguientes proteínas contienen hierro, pero
+solo una es hemínica. Indicar cuál:
+1. Succinil deshidrogenasa.
+2. Xantina oxidasa.
+3. NADH-citocromo C reductasa.
+4. Catalasa.
+125. Cuál de las siguientes acciones bioquímicas es
+realizada por la insulina:
+1. Inhición de la degradación de proteínas.
+2. Inhibición de la síntesis de triacilgliceroles.
+3. Activación de la lipolisis.
+4. Activación de la gluconeogénesis en el híga-
+do.
+126. Las ceras se caracterizan por:
+1. Contener ésteres de alcoholes.
+2. Contener ceramida.
+3. No contener ácidos grasos.
+4. No contener ácidos grasos insaturados.
+127. El queratán sulfato, el dermatán sulfato, el
+condroitín sulfato y el hialuronato son:
+11 -
+1. Aminoácidos ácidos no proteicos.
+2. Glicosaminoglicanos.
+3. Lecitinas.
+4. Gangliósidos.
+128. Un aumento de la concentración de acetil-CoA
+derivado de la beta-oxidación promueve:
+1. La síntesis hepática de acetoacetato y beta-
+hidroxibutirato.
+2. La activación de la lipolisis por activación de
+la lipasa sensible a las hormonas.
+3. La inhibición de la síntesis hepática de coles-
+terol.
+4. La inhibición mitocondrial del ciclo del áci-
+do cítrico.
+129. La xantina oxidasa está implicada en:
+1. El catabolismo de las glucoproteínas.
+2. El ciclo de la urea.
+3. La síntesis de ácido úrico durante el catabo-
+lismo de las purinas.
+4. La síntesis de citrulina a partir de ornitina
+durante el catabolismo de los aminoácidos.
+130. Una de las siguientes reacciones corresponde a
+la fase II de la metabolización de xenobióticos:
+1. Oxidación.
+2. Reducción.
+3. Conjugación.
+4. Hidrólisis.
+131. Los dolicoles son lípidos que transportan:
+1. Lípidos neutros.
+2. Proteínas hidrofóbicas.
+3. Glúcidos.
+4. Ácido siálico.
+132. El ácido siálico se encuentra en:
+1. Sulfátidos.
+2. Gangliósidos.
+3. Globósidos.
+4. Cerebrósidos.
+133. Los grupos sanguíneos vienen determinados
+por:
+1. Lipopolisacáridos.
+2. Glicolípidos.
+3. Lectinas.
+4. Mucopolisacáridos.
+134. Los plasmalógenos son:
+1. Galactolípidos.
+2. Esfingoglucolípidos.
+3. Glicerofosfolípidos.
+4. Esfingofosfolípidos.
+- 1
+135. El ácido fosfatídico es precursor de:
+1. Triacilgliceroles.
+2. Eicosanoides.
+3. Cerebrósidos.
+4. Esfingofosfolípidos.
+136. Entre las alteraciones metabólicas producidas
+por la ingestión excesiva de alcohol, figura:
+1. Hiperlacticidemia.
+2. Hiperglucemia.
+3. Hipouricemia.
+4. Disminución de la síntesis de triglicéridos.
+137. El efecto de la proteína quinasa dependiente de
+AMP (AMPK) sobre el metabolismo lipídico,
+es:
+1. Activar la síntesis de colesterol, mediante
+fosforilación de la hidroximetilglutaril-CoA
+reductasa (HMG-CoA red).
+2. Activar la lipolisis en el tejido adiposo, me-
+diante la fosforilación de la lipoproteína li-
+pasa (LPL).
+3. Inhibir la beta-oxidación de los ácidos gra-
+sos, mediante la fosforilación de la acil-CoA
+deshidrogenasa.
+4. Inhibir la lipogénesis mediante la fosforila-
+ción de la acetil-CoA carboxilasa (ACC).
+138. El lactato, la alanina y el glicerol tienen en
+común:
+1. Ser sustratos de la beta-oxidación mitocon-
+drial.
+2. Ser intermediarios del ciclo del ácido cítrico
+(o ciclo de los ácidos tricarboxílicos).
+3. Ser productos finales de la glucolisis aerobia.
+4. Ser precursores no glucídicos para la gluco-
+neogénesis.
+139. En la glucolisis, cuál de las siguientes enzimas
+cataliza una reacción asociada a la síntesis
+citosólica de ATP:
+1. Hexoquinasa.
+2. Fosfofructoquinasa-1.
+3. Piruvato quinasa.
+4. Fosfoglicerato mutasa.
+140. El efecto de un fármaco que actúe como inhi-
+bidor competitivo en una reacción enzimática:
+1. Se puede anular con concentraciones de sus-
+trato muy superiores a la concentración del
+inhibidor.
+2. No afecta a las constantes cinéticas de la
+reacción.
+3. Es mayor cuanto mayor sea la concentración
+del complejo enzima-sustrato (ES) presente.
+4. Consiste en una reducción de la constante de
+metabolización aparente y un aumento de la
+velocidad de catálisis.
+12 -
+141. En relación a las bases nitrogenadas. ¿Cuál de
+las siguientes respuestas es CORRECTA?:
+1. Las bases pirimidínicas se caracterizan por-
+que presentan en su estructura un doble ani-
+llo.
+2. La guanina aparea con la citosina a través de
+los enlaces de hidrógeno.
+3. La unión de una base nitrogenada, un azúcar
+y un grupo fosfato forman lo que se conoce
+como nucleótido.
+4. La adenosina en una de las 4 bases nitroge-
+nadas.
+142. ¿Qué afirmación es CIERTA en relación a la
+síntesis de proteínas?:
+1. En los organismos procariotas la síntesis de
+proteínas comienza con cualquier aminoáci-
+do cuyo codón de inicio tenga una A como
+primer nucleótido del triplete.
+2. Las enzimas llamadas aminoacil-tRNA sin-
+tetasas, unen covalentemente cada aminoáci-
+do con el tRNA apropiado.
+3. Existe para cada animoácido solamente un
+tRNA específico.
+4. La terminación de las cadenas polipeptídicas
+está señalizada por uno de los 5 codones es-
+peciales de terminación en el RNA.
+143. En relación a las enzimas de restricción:
+1. Los fragmentos de DNA que resultan de los
+cortes hechos por las enzimas de restricción
+cuyos extremos no contienen bases desapa-
+readas se denominan extremos cohesivos.
+2. Las secuencias diana de las enzimas de res-
+tricción son todas palindrómicas y de 6 pares
+de bases de longitud.
+3. La metilación de las bases impide la unión
+de la enzima de restricción y, de esta manera,
+el DNA propio no es hidrolizado.
+4. Las enzimas de restricción cortan solo una
+de las hebras del DNA.
+144. En relación con el polimorfismo genético:
+1. No se produce por mutaciones puntuales.
+2. Son variaciones en la secuencia del genoma
+que diferencian a un individuo de otro.
+3. Sólo se produce en regiones no codificantes
+del genoma.
+4. Las inserciones son los únicos mecanismos
+de producir polimorfismo genético.
+145. La replicación semiconservativa es un proceso
+en el que:
+1. Se produce un DNA completamente nuevo.
+2. Se originan dos moléculas de DNA, cada
+una de ellas compuesta de una hebra del
+DNA original y de una hebra complementa-
+ria nueva.
+- 1
+3. Se romperían las hebras de origen durante la
+replicación que, de alguna manera se reorde-
+narían en una molécula con una mezcla de
+fragmentos nuevos y viejos.
+4. Se produce sólo de forma hipotética.
+146. En la obtención de cDNA a partir de mRNA,
+¿Qué enzima está implicada?:
+1. Helicasa.
+2. Ligasa.
+3. Topoisomerasa.
+4. Transcriptasa inversa.
+147. ¿Qué afirmación es CIERTA en relación a las
+moléculas de RNA?
+1. Tanto en procariotas como en eucariotas
+existen 4 tipos principales de RNA: mRNA
+(mensajero), tRNA (de transferencia), rRNA
+(ribosómico) y scRNA (citoplasmático pe-
+queño).
+2. Algunos RNAs adoptan estructuras secunda-
+rias en pequeñas regiones de su molécula por
+el plegamiento de su única hebra sobre sí
+misma.
+3. El mRNA es una cadena lineal formada por
+ribonucleósidos A, T, C y G.
+4. El rRNA en procariotas está formado por
+una sola hebra mientras que en eucariotas es
+una molécula de doble hebra que se mantie-
+ne unida mediante puentes de hidrógeno en-
+tre sus bases nitrogenadas.
+148. ¿Qué significa que el código genético es dege-
+nerado?:
+1. Que existen tres marcos de lectura.
+2. Que es un código universal.
+3. Que no requiere un codón de terminación.
+4. Que un aminoácido puede estar codificado
+por más de un codón.
+149. En una situación de ayuno prolongado, indique
+la respuesta FALSA:
+1. Aumenta la gluconeogénesis hepática.
+2. Aumenta la producción de cuerpos cetóni-
+cos.
+3. Aumenta el pH sanguíneo.
+4. Aumenta la oxidación de ácidos grasos en
+hígado y músculo.
+150. Indique cuál de estas patologías cursa con
+hiperbilirrubinemia predominantemente no
+conjugada:
+1. Necrosis hepatocelular.
+2. Síndrome de Dubin – Johnson.
+3. Síndrome de Gilbert.
+4. Colestasis intrahepática.
+151. Con respecto a la lactato deshidrogenasa:
+13 -
+1. Se distinguen tres isoenzimas.
+2. Es un parámetro muy específico en el diag-
+nóstico clínico.
+3. Se eleva en la anemia ferropénica.
+4. La hemólisis produce elevación de sus nive-
+les plasmáticos.
+152. En relación a las lipoproteínas:
+1. Los quilomicrones se sintetizan en la mucosa
+intestinal y contienen la Apo B-48.
+2. La Apo B-100 es la más abundante en las
+HDL.
+3. Las VLDL transportan triglicéridos exóge-
+nos.
+4. Los quilomicrones son los de mayor densi-
+dad.
+153. Si un recién nacido presenta hiperamonemia y
+una marcada acumulación de citrulina en san-
+gre y orina diremos que tiene una deficiencia
+enzimática en:
+1. Arginino succinato liasa.
+2. Arginasa.
+3. Arginino succinato sintetasa.
+4. Carbamoil fosfato sintetasa.
+154. La alcaptonuria es una enfermedad genética
+causada por el déficit de un enzima:
+1. Tirosinasa.
+2. Carbamoil fosfato sintetasa I.
+3. Fenilalanina hidroxilasa.
+4. Homogentisato 1,2-dioxigenasa.
+155. La diabetes mellitus tipo II:
+1. Cursa frecuentemente con cetoacidosis.
+2. Suele ser de aparición juvenil.
+3. No está relacionada con la obesidad.
+4. Es insulina independiente.
+156. En relación a los aminoácidos indique la res-
+puesta FALSA:
+1. La glutamina es un aminoácido no esencial.
+2. El tripotófano es un aminoácido aromático.
+3. La metionina contiene azufre en su estructu-
+ra.
+4. La alanina es un aminoácido esencial.
+157. Cuando se realiza la validación de un método
+analítico, ¿cuál de las siguientes características
+de calidad se relaciona con su capacidad de no
+verse afectado por pequeños cambios delibera-
+dos de parámetros operativos?:
+1. Especificidad.
+2. Exactitud.
+3. Precisión.
+4. Robustez.
+158. En una valoración argentométrica de Cl- por
+- 1
+retroceso, mediante el método de Volhard:
+1. El exceso de Cl- se valora con tiocianato.
+2. El exceso de Cl- se valora con el ión Fe3+.
+3. El exceso de Ag+ se valora con tiocianato.
+4. El exceso de Ag+ se valora con el ión Fe3+.
+159. La cuantificación del contenido en níquel (Ni2+)
+en una muestra puede llevarse a cabo mediante
+análisis gravimétrico, a través de la formación
+de un complejo insoluble en medio ligeramente
+alcalino con un reactivo precipitante. ¿Sabría
+indicar con cuál?
+1. Cupferrón.
+2. 8-Hidroxiquinolina.
+3. Tetrafenilborato de sodio.
+4. Dimetilglioxima.
+160. ¿Cuál es el pH de una disolución 1 nM (nano-
+molar) de HCl en agua?:
+1. 9,0.
+2. 2,0.
+3. 7,0.
+4. 1,0.
+161. ¿Cuál de los siguientes indicadores utilizaría
+en una valoración ácido-base, considerando un
+intervalo de transición de pH de 4 a 6?:
+1. Azul de metileno.
+2. Diclorofluoresceína.
+3. Negro de eriocromo T.
+4. Rojo de metilo.
+162. El negro de eriocromo T es un indicador que se
+utiliza habitualmente en Química Analítica, en
+las valoraciones:
+1. Ácido-base.
+2. Precipitación.
+3. Redox (Oxidación-reducción).
+4. Formación de complejos.
+163. ¿Cómo será el pH en el punto de equivalencia
+para la valoración de un ácido débil?:
+1. Siempre ácido.
+2. Siempre básico.
+3. 7,0.
+4. Dependerá de la concentración de ácido.
+164. Un proceso en el que una parte de la radiación
+dispersada presenta la frecuencia original y
+una pequeña parte aparece a otras frecuencias,
+constituye la base:
+1. Del detector de luz dispersada tras evapora-
+ción (ELSD).
+2. De la espectroscopía Raman.
+3. De la espectrometría de infrarrojo cercano.
+4. De la dispersión Rayleigh.
+14 -
+165. En una separación por cromatografía de líqui-
+dos de alta resolución (HPLC) con elución con
+gradientes:
+1. Varía la composición de la fase móvil a lo
+largo de la cromatografía.
+2. Varía la temperatura de la fase móvil a lo
+largo de la cromatografía.
+3. Varía la presión de la fase móvil a lo largo
+de la cromatografía.
+4. La composición, temperatura y presión de la
+fase móvil son constantes a lo largo de la
+cromatografía.
+166. En la espectrometría atómica, el ensancha-
+miento de las líneas espectrales debido a la
+agitación térmica de los átomos presentes en el
+atomizador se debe a:
+1. Ensanchamiento de la línea por efecto de
+incertidumbre.
+2. Ensanchamiento de autoinversión.
+3. Ensanchamiento Doppler.
+4. Ensanchamiento de autoabsorción.
+167. La espectroscopia de emisión basada en la
+atomización con plasma se diferencia de la
+basada en la atomización con llama en que:
+1. Presenta mayor interferencia entre los ele-
+mentos de la muestra como consecuencia di-
+recta de utilizar temperaturas elevadas.
+2. No permite determinar no-metales como
+cloro, bromo o azufre.
+3. Es aplicable en unos intervalos de concentra-
+ción que abarcan varios órdenes de magni-
+tud.
+4. No es posible registrar simultáneamente los
+espectros de varios elementos, es decir, no es
+posible el análisis multielemental.
+168. ¿En qué componente del espectrómetro de
+masas tiene lugar la separación de los iones
+según su relación masa/carga?:
+1. Cámara de ionización.
+2. Placas de aceleración de iones.
+3. Analizador de masas.
+4. Detector.
+169. La espectrometría de absorción molecular en
+el ultravioleta – visible implica el estudio de:
+1. Los modos vibracionales y rotacionales de
+tensión y de flexión de los átomos de una
+molécula.
+2. Exclusivamente los cambios de energía rota-
+cional en las moléculas.
+3. La dispersión de radiación visible por las
+moléculas.
+4. Los cambios de energía electrónica de las
+moléculas, produciéndose simultáneamente
+- 1
+transiciones vibracionales y rotacionales.
+170. La ecuación que relaciona la altura del plato
+teórico de una columna cromatográfica con la
+velocidad de la fase móvil es la ecuación de:
+1. Debye-Hückel.
+2. Henderson-Hasselbalch.
+3. Van Deemter.
+4. Nernst.
+171. Los espectros obtenidos en la espectroscopia
+infrarroja se caracterizan porque:
+1. Las vibraciones de esqueleto de una molécu-
+la producen bandas de absorción a una ener-
+gía muy alta.
+2. En la interpretación de los espectros no son
+útiles las vibraciones que se limitan a enlaces
+aislados o grupos funcionales de una molé-
+cula.
+3. Son muy útiles para el análisis cualitativo ya
+que dos sustancias que absorben el infrarrojo
+nunca lo hacen con la misma intensidad en
+las mismas frecuencias. El espectro infrarro-
+jo de una sustancia es una “huella dactilar”
+de la misma.
+4. Los sobretonos presenta un valor de frecuen-
+cia inferior a las bandas fundamentales.
+172. De los siguientes detectores, ¿cuál se utiliza en
+cromatografía de gases?:
+1. Detector electroquímico.
+2. Detector de fluorescencia.
+3. Detector de índice de refracción.
+4. Detector de captura de electrones.
+173. El coeficiente de difusión, D, para una partícu-
+la esférica:
+1. Es independiente del tamaño de la molécula
+que difunde.
+2. Es independiente de la temperatura.
+3. Es independiente de la viscosidad de la diso-
+lución.
+4. Depende de la temperatura, presión y com-
+posición de la disolución.
+174. Cuando cualquier proceso tiene lugar en un
+sistema aislado:
+1. El equilibrio termodinámico se alcanza
+cuando la entalpía es 0.
+2. El equilibrio termodinámico se alcanza
+cuando la entropía es máxima.
+3. La entropía disminuye si el proceso es es-
+pontáneo.
+4. En un sistema aislado, como no existe inter-
+cambio de calor, la entropía es 0.
+175. De acuerdo con la ecuación que describe el
+efecto de la fuerza iónica del medio sobre la
+velocidad de una reacción de un fármaco con
+15 -
+carga positiva:
+1. La fuerza iónica no afecta a la velocidad de
+esta reacción.
+2. La representación de la constante de veloci-
+dad frente a la fuerza iónica debería ser li-
+neal.
+3. La representación del logaritmo de la cons-
+tante de velocidad frente a la inversa de la
+raíz cuadrada de la fuerza iónica debería ser
+lineal.
+4. La representación del logaritmo de la cons-
+tante de velocidad frente a la raíz cuadrada
+de la fuerza iónica debería ser lineal.
+176. Si se prepara una disolución con una presión
+osmótica superior a la de la sangre:
+1. La disolución será isotónica.
+2. La disolución será hipotónica.
+3. Los glóbulos rojos en contacto con dicha
+disolución estallarán.
+4. Los glóbulos rojos en contacto con dicha
+disolución se deshidratarán.
+177. La velocidad a la que fluye un fluido ideal a
+través de un tubo redondo en condiciones de
+flujo laminar:
+1. Es directamente proporcional al radio del
+tubo.
+2. Es directamente proporcional a la viscosidad
+del fluido.
+3. Es directamente proporcional a la longitud
+del tubo.
+4. Disminuye al aumentar el radio del tubo.
+178. En disoluciones acuosas, las moléculas anfifíli-
+cas forman micelas por encima de la concen-
+tración crítica micelar y de la temperatura de
+Kraft. Este proceso espontáneo se debe a:
+1. Un descenso de la entalpía del sistema debi-
+do a la formación de las micelas.
+2. Un incremento de la entalpía del sistema
+debido a la formación de las micelas.
+3. Un descenso de la energía libre del sistema
+debido a la formación de las micelas.
+4. Un incremento de la energía libre del sistema
+debido a la formación de las micelas.
+179. ¿Cuál de las siguientes características es co-
+mún a bisfenol A, ftalatos y DTT?:
+1. Producen fibrosis pulmonar.
+2. Son disruptores endocrinos.
+3. Son ototóxicos.
+4. Producen fototoxicidad.
+180. ¿Cuál es la sustancia que produce fibrosis
+pulmonar por inhalación?:
+1. Paraquat.
+- 1
+2. Sílice.
+3. Bleomicina.
+4. Ozono.
+181. ¿Cuál es la sustancia que produce convulsiones
+mediante el bloqueo de receptores de glicina?:
+1. Tetrodotoxina.
+2. Estricnina.
+3. Tubocurarina.
+4. Picrotoxina.
+182. ¿Cuál es el mecanismo de acción de la
+tetrodotoxina?:
+1. Bloquea la bomba H+/K+ ATPasa.
+2. Inhibe la enzima tirosina-hidroxilasa.
+3. Favorece la liberación de serotonina.
+4. Bloquea los canales de sodio.
+183. Tras una ingestión de cadmio, ¿cuál de los
+siguientes órganos se verá más afectado?:
+1. Riñón.
+2. Hígado.
+3. Páncreas.
+4. Tiroides.
+184. El pesticida paration se biotransforma a pa-
+raoxón, responsable de su toxicidad, mediante
+una reacción de:
+1. S-oxidación.
+2. Epoxidación.
+3. Desulfuración.
+4. Sulfóxido reducción.
+185. ¿En qué reacción de las siguientes intervienen
+las glutatión transferasas?:
+1. Conjugación con glucósido.
+2. Conjugación con sulfato.
+3. Formación de glucuronatos.
+4. Formación de mercapturatos.
+186. Se utiliza el flumazenil en el tratamiento de
+intoxicación con:
+1. Digitálicos.
+2. Benzodiazepinas.
+3. Salicilatos.
+4. Antidepresivos tricíclicos.
+187. La reacción de Diels-Alder implica como reac-
+tivos a:
+1. Un dieno y un alqueno.
+2. Dos alquenos sustituidos.
+3. Un dieno y un nitrilo alifático.
+4. Un dieno electrodeficiente y un dieno elec-
+trónicamente rico.
+188. ¿Qué se entiende por racémico o racemato?:
+16 -
+1. Una mezcla al 50% de dos estereoisómeros.
+2. Una mezcla al 50% de los enantiomeros.
+3. Un compuesto enantiomericamente puro.
+4. Una mezcla del isómero cis y el isómero
+trans.
+189. La reacción de nitración electrófila del fenol
+(hidroxibenceno) conduce a:
+1. Una mezcla de 1-hidroxi-3-nitrobenceno y 1-
+hidroxi-2-nitrobenceno.
+2. Una mezcla de 1-hidroxi-3-nitrobenceno y 1-
+hidroxi-4-nitrobenceno.
+3. Una mezcla de 1-hidroxi-2-nitrobenceno y 1-
+hidroxi-4-nitrobenceno.
+4. 1-Hidroxi-4-nitrobenceno como único pro-
+ducto.
+190. Un reactivo de Grignard reacciona con un
+nitrilo para generar, después de la hidrólisis
+ácida:
+1. Una cetona.
+2. Una amida.
+3. Un aldehído.
+4. Una amina.
+191. Se conoce con el nombre de reacción aldólica la
+reacción de:
+1. Una cetona alifática y una amina en presen-
+cia de una base.
+2. Una cetona ɑ,β-insaturada y un reactivo de
+Grignard.
+3. Una cetona alifática o un aldehído alifático
+en presencia de una base.
+4. Una cetona alifática y una imina en medio
+ácido.
+192. La constante de Rydberg permite calcular:
+1. La afinidad electrónica del átomo de hidró-
+geno.
+2. La energía reticular de los compuestos ióni-
+cos.
+3. La energía del electrón en el átomo de hidró-
+geno.
+4. La capacidad de polarización del protón.
+193. Para un mismo número cuántico principal el
+poder de penetración de los orbitales:
+1. No varía.
+2. Varía según s>p>d>f.
+3. Varía según s<p<d<f.
+4. Solo es alto en los orbitales d y f.
+194. En los halógenos el valor más alto de afinidad
+electrónica se encuentra en:
+1. Flúor.
+2. Cloro.
+3. Bromo.
+- 1
+4. Iodo.
+195. La viscosidad de los líquidos depende de la
+fortaleza:
+1. Del enlace iónico.
+2. Del enlace covalente.
+3. De las fuerzas intermoleculares.
+4. Del grado de disociación.
+196. ¿Cuál de los siguientes enlaces sencillos es más
+fuerte?:
+1. C-C.
+2. I-I.
+3. N-H.
+4. O-H.
+197. La ecuación de Arrhenius relaciona la constan-
+te de velocidad de una reacción con:
+1. La concentración de los reactivos.
+2. La temperatura.
+3. El orden de reacción.
+4. Su velocidad.
+198. La molécula de óxido nítrico es una excepción
+a la regla del octeto de Lewis porque:
+1. Tiene un enlace doble.
+2. Tiene un tamaño muy pequeño y hay repul-
+siones interelectrónicas.
+3. Tiene un nº impar de electrones.
+4. Expande el octeto.
+199. Las triadas portales de los lobulillos hepáticos
+están formadas por:
+1. Una rama de la arteria hepática, una rama de
+la vena porta y una rama de un conducto bi-
+liar.
+2. Una rama de la arteria mesentérica, una rama
+de la vena porta y una rama de un conducto
+biliar.
+3. Una rama de la arteria hepática, una rama de
+la vena hepática y una rama de un conducto
+biliar.
+4. Una rama de la arteria hepática, una rama de
+la vena porta y una rama de la vena hepática.
+200. La articulación de la cadera es una articula-
+ción de tipo:
+1. Troclear o Gíglimo.
+2. Trocoide o de pivote.
+3. Artrodia.
+4. Enartrosis o esferoidea.
+201. El músculo que tiene su origen (inserción pro-
+ximal) en esternón y clavícula y su inserción
+distal en la apófisis mastoidea del temporal
+recibe el nombre de:
+1. Esplenio.
+17 -
+2. Occipital.
+3. Esternohioideo.
+4. Esternocleidomastoideo.
+202. La región intermedia del tronco del encéfalo
+entre el bulbo y el mesencéfalo se conoce con el
+nombre de:
+1. Diencéfalo.
+2. Tálamo.
+3. Cerebelo.
+4. Protuberancia o puente.
+203. ¿Cuál de los siguientes vasos procede del tron-
+co celíaco?:
+1. Hepática común.
+2. Carótida.
+3. Porta.
+4. Renal.
+204. ¿Qué hueso de nuestro cuerpo protege la hipó-
+fisis?:
+1. El etmoides.
+2. El parietal.
+3. El esfenoides.
+4. El occipital.
+205. Tras la evaluación de una prueba diagnóstica
+se comprueba que ésta no tiene ningún resul-
+tado falso positivo. ¿Qué se puede concluir de
+este estudio?:
+1. Que la sensibilidad es del 100%.
+2. Que la especificidad es del 100%.
+3. Que el valor predictivo negativo es del
+100%.
+4. Que el valor preditivo positivo es del 0%.
+206. ¿Qué tipo de razón es el cociente entre la pro-
+babilidad de ocurrencia de un suceso y la pro-
+babilidad de no ocurrencia de dicho suceso?:
+1. Una Odds.
+2. Una proporción.
+3. Una tasa absoluta.
+4. Una tasa relativa.
+207. ¿Qué tipo de prueba se debe realizar para
+comprobar si una determinada variable se
+distribuye según una ley normal?:
+1. Una prueba de homogeneidad.
+2. Una prueba de bondad de ajuste.
+3. Una prueba de independencia.
+4. Una prueba de conformidad.
+208. ¿En cuál de los siguientes casos se comete un
+error tipo II en una prueba de hipótesis?:
+1. Cuando se acepta la hipótesis nula siendo
+verdadera la hipótesis alternativa.
+2. Cuando se acepta la hipótesis nula siendo
+- 1
+falsa la hipótesis alternativa.
+3. Cuando se acepta la hipótesis alternativa
+siendo verdadera la hipótesis nula.
+4. Cuando se acepta la hipótesis alternativa
+siendo falsa la hipótesis nula.
+209. El incremento del riesgo de padecer un cáncer
+colorrectal se ha relacionado con la infección
+por Streptococcus gallolyticus. ¿Qué tipo de
+estudio diseñaría para demostrar una relación
+causal?:
+1. Estudio descriptivo transversal tipo estudio
+de prevalencia.
+2. Estudio descriptivo transversal tipo estudio
+de concordancia.
+3. Estudio descriptivo longitudinal.
+4. Estudio analítico observacional tipo estudio
+de cohortes.
+210. La adquisición de un medicamento extranjero
+está regulada en:
+1. Real Decreto Legislativo 1/2015, de 24 julio,
+Texto refundido de la Ley de Garantía y uso
+racional de los medicamentos y productos
+sanitarios.
+2. Real Decreto 1015/2009, de 19 de junio, por
+el que se regula la disponibilidad de medi-
+camentos en situaciones especiales.
+3. Real Decreto 782/2013, de 11 octubre, sobre
+distribución de medicamentos de uso hu-
+mano.
+4. Real Decreto 824/2010, de 25 de junio, por
+el que se regulan los laboratorios farmacéuti-
+cos, los fabricantes de principios activos de
+uso farmacéutico y el comercio exterior de
+medicamentos y medicamentos en investiga-
+ción.
+211. La gestión de las compras de los Productos
+Sanitarios en el hospital es responsabilidad de:
+1. Almacén General.
+2. Servicio de Suministros.
+3. Servicio de Farmacia Hospitalaria.
+4. Comisión de Compras.
+212. ¿Cuál de los siguientes es uno de los criterios
+para la inclusión de medicamentos en la finan-
+ciación selectiva del Sistema Nacional de Sa-
+lud?:
+1. Valor terapéutico y social del medicamento.
+2. Precio bajo.
+3. Seguridad.
+4. Eficacia.
+213. El permiso de comercialización de medicamen-
+tos declarados huérfanos está reservado a:
+1. La Agencia Europea de Medicamentos.
+2. La Organización Mundial de la Salud.
+3. Las Comunidades Autónomas.
+18 -
+4. UNICEF.
+214. El certificado complementario de protección
+de los medicamentos se extiende, dentro de la
+protección conferida a la patente base, cuando:
+1. El producto no está protegido por una paten-
+te en vigor.
+2. El producto ha sido objeto ya de un certifi-
+cado de protección.
+3. La autorización de comercialización no es la
+primera que se concede al producto como
+medicamento.
+4. El producto, como medicamento, ha sido
+objeto de autorización de comercialización
+acorde con las normas dictadas por la Co-
+munidad Europea.
+215. Con carácter general, y de acuerdo con la le-
+gislación estatal sobre oficinas de farmacia, el
+módulo de población mínimo para su apertura
+es de:
+1. 1.000 habitantes.
+2. 2.800 habitantes.
+3. 500 habitantes.
+4. La legislación estatal no fija módulos pobla-
+cionales.
+216. De acuerdo con las normas establecidas en
+nuestro ordenamiento constitucional, las mate-
+rias de sanidad exterior corresponden a:
+1. El Estado.
+2. La Unión Europea.
+3. Las Comunidades Autónomas.
+4. La Organización Mundial de la Salud.
+217. El rechazo hiperagudo de un trasplante es
+causado por:
+1. Anticuerpos preformados.
+2. Linfocitos T CD4+.
+3. Linfocitos T CD8+.
+4. Inmunocomplejos circulantes.
+218. ¿Para qué sirve el test de Cross-Match o prue-
+ba cruzada en el trasplante de órgano sólido?:
+1. Para detectar la presencia en el donante de
+anticuerpos contra los antígenos de histo-
+compatibilidad del receptor del injerto.
+2. Para comprobar la correcta tipificación de
+los alelos de los loci A, B y DR.
+3. Para detectar la presencia en el receptor de
+anticuerpos contra antígenos menores de his-
+tocompatibilidad del propio receptor. (auto-
+anticuerpos).
+4. Para detectar la presencia en el receptor de
+anticuerpos contra los antígenos de histo-
+compatibilidad del donante.
+219. En la maduración de los linfocitos B podemos
+distinguir dos fases:
+- 1
+1. La fase antígeno (Ag) dependiente tiene lu-
+gar en el timo e implica la clonalidad de los
+linfocitos.
+2. La fase Ag independiente tiene lugar en el
+ganglio y promueve la expansión clonal.
+3. La fase Ag independiente tiene lugar en la
+médula ósea y la Ag dependiente en los ór-
+ganos linfoides secundarios.
+4. La fase Ag dependiente ocurre en la médula
+ósea y conlleva el cambio de isotipo.
+220. Una de las primeras respuestas innatas frente
+a la infección es:
+1. Los linfocitos T cooperadores producen cito-
+cinas para fomentar capacidades microbici-
+das.
+2. Los macrófagos residentes producen citoci-
+nas para atraer a los neutrófilos al foco de in-
+fección.
+3. Los macrófagos residentes producen citoci-
+nas para atraer a linfocitos T citotóxicos al
+foco de infección.
+4. Las células dendríticas presentan los antíge-
+nos microbianos a los neutrófilos.
+221. La enfermedad de injerto contra huésped se
+inicia cuando:
+1. Los linfocitos T reguladores presentes en la
+muestra del injerto reaccionan contra los an-
+tígenos del huésped matando sus células.
+2. Los linfocitos T maduros presentes en la
+muestra del injerto reaccionan contra los an-
+tígenos del huésped.
+3. Los neutrófilos presentes en la muestra del
+injerto reaccionan contra los antígenos del
+huésped matando sus células.
+4. Los linfocitos T maduros del injerto reaccio-
+nan contra los antígenos del órgano trasplan-
+tado.
+222. La respuesta adaptativa a bacterias intracelu-
+lares mediada por células T CD4+:
+1. Se denomina Th1 y está inducida por IL-12 e
+interferón gamma (IFN-γ).
+2. Se denomina Th 17 y está inducida por IL-
+17 e IFN-γ.
+3. Se denomina Th 1 y está inducida por IL-1 e
+IFN-γ.
+4. Se denomina Th 12 y está mediada por IL-12
+e IFN-γ.
+223. Los macrófagos activados durante una infec-
+ción tienen como funciones: Fagocitar micro-
+bios y matarlos, secretar citocinas inflamato-
+rias (TNF e IL-1) para fomentar la inflamación
+local cuando la infección está controlada, y:
+1. Salir del tejido para fomentar la reparación.
+2. Eliminar tejido muerto y fomentar la repara-
+ción.
+19 -
+3. Entrar en apoptosis para fomentar la repara-
+ción.
+4. Volver al nódulo linfático para parar la res-
+puesta inmune.
+224. ¿Qué fenotipo esperarías en un individuo en el
+que se ha descrito una inmunodeficiencia cau-
+sada por una mutación homocigótica para la
+cadena CD3ε que impide la expresión de este
+complejo molecular?:
+1. Incapacidad para realizar una respuesta in-
+mune en cualquier situación.
+2. Incapacidad para realizar respuestas celula-
+res frente a virus y bacterias intracelulares,
+pero con una respuesta humoral normal.
+3. Solamente será capaz de realizar una res-
+puesta innata y adaptativa humoral T-
+independiente.
+4. Problemas para realizar respuestas frente a
+bacterias extracelulares y hongos.
+225. ¿Cuál de estas inmunoglobulinas es importante
+en las reacciones de hipersensibilidad de tipo
+I?:
+1. IgA.
+2. IgG
+2.
+3. IgM.
+4. IgE.
+226. ¿En cuál de estos fármacos con actividad anti-
+viral aparece una estructura abierta de aci-
+clonucléosido?:
+1. Zidovudina.
+2. Ribavirina.
+3. Lamivudina.
+4. Ganciclovir.
+227. En el diagnóstico de laboratorio de la legione-
+losis ¿cuál de las siguientes afirmaciones es
+cierta?
+1. Al igual que otras bacterias, Legionella spp.
+se tiñe en las muestra clínicas con la tinción
+de Gram, permitiendo visualizar los micro-
+organismos con facilidad.
+2. El agar con extracto de levadura y carbón
+taponado (BCYE) es un medio de cultivo
+empleado para el aislamiento de la bacteria.
+3. Legionella spp. crece con facilidad en me-
+dios no selectivos incubados en atmósfera
+aeróbica.
+4. La medición de la respuesta serológica a la
+infección no permite en ningún caso estable-
+cer un diagnóstico de legionelosis.
+228. El medicamento que ha pasado por todas las
+fases de preparación, incluyendo su acondicio-
+namiento en el envase final, se denomina:
+1. Producto a granel.
+2. Producto intermedio.
+- 2
+3. Producto terminado.
+4. Producto envasado.
+229. La zona glomerulosa (capa externa) de la cor-
+teza suprarrenal secreta:
+1. Glucocorticoides.
+2. Andrógenos.
+3. Aldosterona.
+4. Adrenalina.
+230. El fondaparinux es:
+1. Antagonista de la vitamina K.
+2. Análogo sintético de la secuencia pentasacá-
+rida de las heparinas.
+3. Bloqueante del receptor de glucoproteína
+IIb/IIIa.
+4. Fármaco antitrombótico de elección por ser
+de administración oral.
+231. ¿Para qué se utiliza el “nomograma de Hart-
+ford”?:
+1. Para el cálculo del aclaramiento renal.
+2. Para el ajuste de dosificación de aminoglu-
+cósidos.
+3. Para el cálculo del aclaramiento hepático.
+4. Para estimar la toxicidad del paracetamol.
+232. En el transporte de electrones a través de la
+cadena respiratoria:
+1. El antibiótico oligomicina inhibe el paso de
+electrones por el complejo II.
+2. La reducción final del O se produce por el
+2
+complejo CoQ-citocromo C reductasa.
+3. Las deshidrogenasas dependientes de FAD
+interaccionan con el complejo succinato-
+CoQ reductasa.
+4. Los citocromos están presentes en todos los
+complejos respiratorios, ordenados de mayor
+a menor potencial redox.
+233. ¿En qué tipo de valoración se utiliza la mure-
+xida como indicador?:
+1. Redox.
+2. Formación de complejos.
+3. Ácido-base.
+4. Precipitación.
+234. En las determinaciones de la fluorescencia de
+un compuesto en disolución hay que tener en
+cuenta que:
+1. La presencia de oxígeno disuelto suele redu-
+cir la intensidad de fluorescencia de la diso-
+lución.
+2. El pH de la disolución no influye en la fluo-
+rescencia de compuestos aromáticos que pre-
+sentan grupos funcionales de carácter ácido o
+básico.
+3. La polaridad del disolvente nunca influye en
+20 -
+el espectro de fluorescencia de las molécu-
+las.
+4. Al aumentar la temperatura y disminuir la
+viscosidad de la disolución aumenta la fluo-
+rescencia de la misma.
+235. La inmunosupresión selectiva por la adminis-
+tración de fármacos como la ciclosporina A, se
+utiliza frecuentemente en el tratamiento
+post- trasplantes con el objetivo de:
+1. Incrementar los niveles de linfocitos T hel-
+per y supresores en periferia.
+2. Disminuir los niveles de inmunoglobulinas
+circulantes de los isotipos IgG e IgM en el
+receptor.
+3. Disminuir la activación de los linfocitos T
+CD4+ y CD8+.
+4. Incrementar los niveles de aloreactividad de
+los linfocitos T citotóxicos.
+- 21 -
