@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       paso:
-        description: 'todo | externos | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
+        description: 'todo | externos | cruce | imagenes | procesar | clasificar | calibrar | sondear | descubrir | descargar'
         default: 'todo'
         required: true
 permissions:
@@ -33,6 +33,9 @@ jobs:
       - name: FIR antiguos desde copias de los PDF oficiales
         if: inputs.paso == 'todo' || inputs.paso == 'externos'
         run: python scripts/fir_externos.py
+      - name: Respuestas de los años sin plantilla legible, cruzadas por texto con oposicionesgratis (validadas con las oficiales)
+        if: inputs.paso == 'cruce'
+        run: python scripts/fir_cruce_og.py 2010 2011 2012 2013 2014 2015 2019 2020 --validar 2009 2016 2017 2018 2022 2023
       - name: Cuadernillos de imágenes (portal y copias) → data/img
         if: inputs.paso == 'imagenes'
         run: |

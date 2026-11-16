@@ -17,6 +17,7 @@ cj = http.cookiejar.CookieJar(); OP = urllib.request.build_opener(urllib.request
 def baja(url):
     m = re.search(r'[?&]id=([\w-]+)', url) if 'drive.google' in url else None
     if m: url = f'https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t'
+    url = urllib.parse.quote(url, safe=':/?&=%#')   # tildes en el nombre («Formación-Sanitaria-Especializada.pdf»)
     b = OP.open(urllib.request.Request(url, headers=UA), timeout=120).read()
     if m and b[:4] != b'%PDF':
         # página de aviso de Drive (fichero grande): reenviar su formulario con los campos ocultos (id, export, confirm, uuid…)
@@ -140,7 +141,7 @@ def main():
                     if u in usadas: raise ValueError('esta plantilla ya se usó para otro año')
                     r = M.parse_plantilla(tx, nmax, nopt)
                     cubre = sum(1 for q in qs if q['n'] in r); anul = sum(1 for q in qs if r.get(q['n']) == 0)
-                    if cubre < 0.9 * len(qs): raise ValueError(f'respuestas para {cubre} de {len(qs)}')
+                    if cubre < 0.9 * len(qs): raise ValueError(f"respuestas para {cubre} de {len(qs)}; inicio del texto: «{tx[:700].replace(chr(10), ' / ')}»")
                     if anul > 15: raise ValueError(f'{anul} anuladas: la tabla no se ha leído bien (lo normal son menos de 10)')
                     (d / 'plantilla.txt').write_text(tx, encoding='utf-8')
                     if tipo == 'pdf': (d / 'plantilla.pdf').write_bytes(b)

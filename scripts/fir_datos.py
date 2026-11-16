@@ -195,7 +195,7 @@ def procesa_anio(anio, d):
     inf.update(preguntas=len(qs), opciones=nopt, fuente=fuente)
     if not qs: inf['error'] = 'no se reconocieron preguntas en el cuaderno'; return [], inf
     resp = {}
-    if (d / 'respuestas_cruce.json').exists():   # 2010 y 2014: cruce por texto con una transcripción de terceros (scripts/fir_plantilla_cruce.py)
+    if (d / 'respuestas_cruce.json').exists():   # años sin plantilla legible: cruce por texto con una transcripción validada (scripts/fir_cruce_og.py)
         resp = {int(k): v for k, v in json.loads((d / 'respuestas_cruce.json').read_text(encoding='utf-8')).items()}
     elif (d / 'respuestas.json').exists():   # hoja de respuestas de la API del portal: filas {V_0: nº de pregunta en la versión 0, RC_0: respuesta}
         resp = parse_respuestas_json(json.loads((d / 'respuestas.json').read_text(encoding='utf-8')))
