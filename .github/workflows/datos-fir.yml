@@ -43,6 +43,7 @@ jobs:
           python scripts/fir_fetch.py --api --imagenes
           python scripts/fir_externos.py --imagenes
           python scripts/fir_imagenes.py
+          python scripts/fir_figuras.py
       - name: Descubrir enlaces en el portal FSE (método antiguo)
         if: inputs.paso == 'descubrir'
         run: python scripts/fir_fetch.py --descubrir

@@ -1,6 +1,6 @@
 # Informe de extracción · OráculoFIR
 
-Generado: 2026-11-16T21:24:13+00:00
+Generado: 2026-11-16T21:27:34+00:00
 
 | Año | Preguntas | Opciones | Con respuesta | Anuladas | Cotejo con lo publicado | Estado |
 |---|---|---|---|---|---|---|

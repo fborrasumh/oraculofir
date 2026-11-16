@@ -1,13 +1,13 @@
 # OráculoFIR
 
-Qué bloques caerán en el FIR 2027 (sábado 23 de enero de 2027), estimado a partir de los exámenes FIR oficiales, con simulacros de preguntas oficiales y un generador de preguntas nuevas revisadas por varios agentes de IA. Aplicación web de un solo fichero.
+Qué asignaturas caerán en el FIR 2027 (sábado 23 de enero de 2027), estimado a partir de los exámenes FIR oficiales, con simulacros de preguntas oficiales y un generador de preguntas nuevas revisadas por varios agentes de IA. Aplicación web de un solo fichero.
 
 **Usar la app:** https://fborrasumh.github.io/oraculofir/
 **Idiomas:** español (por defecto), inglés y portugués. Se cambia en el selector de la barra superior o con `?lang=en` / `?lang=pt` en la URL. Las preguntas del FIR se muestran siempre en español.
 
 ## Qué hace
 
-1. **Predicción por bloque.** Cuenta cuántas preguntas ha tenido cada bloque (Comunitaria, Fundamentos, Salud Mental, Médico-quirúrgica por aparatos, etc.) en cada FIR, las convierte en proporción del examen y estima cuántas tendrá en 2027 sobre 200, con un intervalo del 80 %.
+1. **Predicción por asignatura.** Cuenta cuántas preguntas ha tenido cada asignatura (Farmacología, Bioquímica, Fisiología, Microbiología, Fisicoquímica, Técnicas instrumentales, etc.) en cada FIR, las convierte en proporción del examen y estima cuántas tendrá en 2027 sobre 200, con un intervalo del 80 %.
    - Método: media ponderada en la que los años recientes pesan más (semivida de 4 años), más la mitad de la tendencia lineal.
 2. **Cuánto fiarse.** Se hace una validación a ciegas en los tres últimos FIR: cada uno se predice solo con los años anteriores y se compara con lo que salió.
    - El método se mide frente a dos referencias sencillas: repetir el año anterior y la media de todos los años.
@@ -41,47 +41,49 @@ Qué bloques caerán en el FIR 2027 (sábado 23 de enero de 2027), estimado a pa
    - **Repaso espaciado de fallos:** cada fallo vuelve a salir al día siguiente y, si se acierta, a los 1, 3, 7, 21 y 60 días.
    - **Plan «dónde ganas más puntos»:** preguntas esperadas en 2027 × tu porcentaje de fallo en cada asignatura.
 9. **Banco y exámenes:** el FIR de un año concreto completo (también con enlace `?anio=2019`) y un buscador por palabras, asignatura y año.
-10. **Imágenes:** 60 preguntas con su imagen (todas las de 2022 a 2026), asignadas por el rótulo «IMAGEN n» de cada cuadernillo. El de 2022 trae una errata («IMAGEN 9999999» es la 9) que se corrige porque es la única que falta. Las de 2020 y 2021 citan imágenes que no se han encontrado y quedan fuera de los simulacros.
+10. **Estructuras y figuras:** el FIR no tiene cuadernillo de imágenes; las estructuras químicas van dibujadas dentro del cuaderno y el texto extraído las pierde. `scripts/fir_figuras.py` localiza cada dibujo (líneas, curvas o imágenes incrustadas), lo asigna a la pregunta en cuya zona cae y guarda la pregunta entera como imagen: 33 preguntas de 2024, 2025 y 2026 se ven con su estructura.
 11. **Avisar de un error** desde cada pregunta: abre una incidencia de GitHub ya rellenada.
 12. **Instalable y sin conexión** (manifest + service worker): una vez abierta, funciona sin internet.
 13. **Página «Cómo se valida»**, con el cotejo de cada examen frente a lo publicado.
 
 ## Lo que no hace (límites reales)
 
-- **No predice preguntas concretas**, solo cuántas tendrá cada bloque. El simulacro entrena el formato y el ritmo; no adivina el examen.
-- **El FIR no tiene asignaturas oficiales.** Los 26 bloques (`data/asignaturas.json`) son una clasificación propia, parecida a la de las academias. Cada pregunta la asigna `gpt-6-luna` (`scripts/fir_clasifica_ia.py`, secreto `OPENAI_API_KEY`); sin clave, se usan palabras clave, que se equivocan en algunas preguntas.
+- **No predice preguntas concretas**, solo cuántas tendrá cada asignatura. El simulacro entrena el formato y el ritmo; no adivina el examen.
+- **El FIR no tiene asignaturas oficiales.** Las 24 asignaturas (`data/asignaturas.json`) son una clasificación propia, parecida a la de las academias. Cada pregunta la asigna `gpt-6-luna` (`scripts/fir_clasifica_ia.py`, secreto `OPENAI_API_KEY`); sin clave, se usan palabras clave, que se equivocan en algunas preguntas.
 - **Que el panel apruebe una pregunta no garantiza que sea correcta.** Reduce los errores, pero varios modelos pueden equivocarse a la vez; la medición dice cuántos se cuelan con preguntas oficiales, y las generadas pueden comportarse algo distinto. Las únicas respuestas con respaldo oficial son las de las preguntas oficiales.
 - **Las anuladas y las preguntas cuya imagen no se tiene no entran en los simulacros.**
 - Herramienta independiente, sin relación con el Ministerio de Sanidad.
 
 ## Datos que hay ahora
 
-| Años | Origen | Respuestas |
+| Años | Cuaderno | Respuestas |
 |---|---|---|
-| 2022-2026 | Portal FSE del Ministerio (API de su web. titulación Enfermería «E»: cuaderno versión 0. hoja de respuestas definitiva y cuadernillo de imágenes) | Oficiales |
-| 2009-2021 | Copias de los PDF oficiales (cuaderno y respuestas) que recopila el [Colegio de Enfermería de Salamanca](https://enfermeriasalamanca.com/examenes-fir/) | Plantilla definitiva copiada |
+| 2022-2026 | Portal FSE del Ministerio (API de su web. titulación Farmacia «F». versión 0) | Hoja de respuestas definitiva oficial |
+| 2009. 2016-2019. 2021 | Copias de los PDF oficiales que enlaza [La Chuleta del FIR](https://www.lachuletadelfir.com/examenes-fir-de-anos-anteriores/) | Plantilla definitiva copiada |
+| 2020 | Ídem | Plantilla definitiva versión 0 publicada por consalud.es; las 5 anuladas coinciden con las publicadas (40. 57. 89. 96 y 166) |
+| 2010-2015 | Ídem | Las plantillas que hay están escaneadas y no se leen. Las respuestas se cruzan **por texto** con la transcripción de [oposicionesgratis.com](https://oposicionesgratis.com/fir/examenes). que declara venir de la plantilla definitiva. Antes se valida esa fuente con los seis años que sí tienen plantilla oficial: coincide en 1.212 de 1.212 respuestas. Las preguntas que no casan con seguridad (y las anuladas) quedan sin respuesta y no entran en los simulacros |
 
 Todo lo que no viene del portal se marca en la app como «tomada de una copia del cuaderno oficial».
 
-El FIR ha cambiado de tamaño: 100 + 10 preguntas hasta 2012. luego 160. 180. 200 y 225 + 10. 175 + 10 en 2020-2021 y 200 + 10 desde 2022. El número esperado de cada año se lee de la portada del propio cuaderno. y la predicción trabaja con proporciones.
+El FIR ha cambiado de tamaño: 250 + 10 preguntas con 5 opciones hasta 2012. 225 + 10 de 2013 a 2019 (con 4 opciones desde 2016). 175 + 10 en 2020-2021 y 200 + 10 desde 2022. El número esperado de cada año se lee de la portada del propio cuaderno. y la predicción trabaja con proporciones.
 
 Comprobaciones antes de aceptar un año copiado:
-- El año del examen se toma del propio cuaderno: «PRUEBAS SELECTIVAS 2012» es el FIR de enero de 2013.
-- El cuaderno debe ser de Enfermería y la plantilla. del mismo año.
+- El año del examen se toma del propio cuaderno: «PRUEBAS SELECTIVAS 2019» es el FIR de enero de 2020.
+- El cuaderno debe ser de Farmacia y de la versión 0 si su portada dice la versión; la plantilla. del mismo año.
 - No se puede usar el mismo fichero para dos años.
 - No se admiten más de 15 anuladas.
 - La plantilla debe cubrir al menos el 90 % de las preguntas.
 
-Erratas de los PDF oficiales que el extractor tiene en cuenta: la pregunta 165 de 2024 viene sin punto. los pies de página de 2024 van invertidos y el rótulo de la imagen 9 de 2022 es «9999999». A las copias de 2009 y 2017 les faltan las últimas preguntas (108 de 110 y 234 de 235).
+La pregunta 210 de 2022 (de reserva) no tiene texto en el PDF y falta.
 
-En total hay 3.367 preguntas de 18 exámenes; 3.253 se pueden usar en simulacros. El bloque de cada pregunta lo asigna `gpt-6-luna`.
+En total hay 4.104 preguntas de 18 exámenes; 3.820 se pueden usar en simulacros. La asignatura de cada pregunta la asigna `gpt-6-luna`.
 
 ## Datos: cómo se traen los exámenes al repositorio
 
 El flujo **Actions → «Datos FIR» → Run workflow** (`.github/workflows/datos-fir.yml`) hace estos pasos:
 
 1. `scripts/fir_fetch.py --api` abre el portal FSE con Chromium para obtener su token anónimo y pide a su API, convocatoria a convocatoria, el cuaderno de la versión 0 y la hoja de respuestas definitiva.
-2. `scripts/fir_externos.py` completa los años que el portal ya no ofrece con las URL de `data/fuentes_externas.json`. Comprueba que cada cuaderno sea un PDF de Enfermería con las preguntas que anuncia su portada y que la plantilla cubra al menos el 90 % de ellas.
+2. `scripts/fir_externos.py` completa los años que el portal ya no ofrece con las URL de `data/fuentes_externas.json`. Comprueba que cada cuaderno sea un PDF de Farmacia, de la versión 0, con las preguntas que anuncia su portada y que la plantilla cubra al menos el 90 % de ellas.
 3. `scripts/fir_datos.py` extrae el texto (también de páginas a dos columnas), separa preguntas y opciones (4 o 5, según el año), lee la respuesta oficial, clasifica cada pregunta y escribe `data/fir.json` (lo que lee la app) y `data/informe.md` (año a año: preguntas, respuestas leídas, anuladas y huecos).
 
 Con el paso `calibrar`, `scripts/fir_calibracion.py` abre la propia app en Chromium con el secreto `OPENAI_API_KEY` (en memoria, sin escribirlo en disco), mide el panel de agentes con 100 preguntas oficiales y guarda `data/calibracion.json`.
@@ -97,7 +99,7 @@ El portal es una aplicación web sin lista pública de enlaces, así que el desc
 ## Privacidad
 
 - La predicción, los simulacros, el reto diario, la racha y la clave de IA se quedan en el navegador.
-- El generador envía al proveedor elegido el bloque y unas preguntas oficiales de ejemplo, nunca datos de la persona. Antes del primer envío muestra lo que va a salir.
+- El generador envía al proveedor elegido la asignatura y unas preguntas oficiales de ejemplo, nunca datos de la persona. Antes del primer envío muestra lo que va a salir.
 - Cada tanda son cinco llamadas a la IA, que cada persona paga con su propia clave.
 
 ## Para que se difunda (diseño)
@@ -122,15 +124,14 @@ python3 tests/smoke_test.py        # app completa en Chromium con IA simulada
 ## Autoría
 
 - Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573)
-- Concepción Carratalá-Munuera (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-1303-6294](https://orcid.org/0000-0002-1303-6294)
 
-Basada en OráculoMIR, adaptada al examen FIR.
+Basada en OráculoMIR y OráculoEIR, adaptada al examen FIR.
 
 Fuente de las preguntas oficiales: cuadernos de examen y plantillas definitivas de respuestas publicados por el Ministerio de Sanidad (portal de Formación Sanitaria Especializada).
 
 ## Cómo citar
 
-Borrás Rocher, F., y Carratalá-Munuera, C. (2026). *OráculoFIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculofir (DOI en trámite)
+Borrás Rocher, F. (2026). *OráculoFIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculofir (DOI en trámite)
 
 ## Licencia
 

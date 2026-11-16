@@ -214,6 +214,8 @@ def procesa_anio(anio, d):
         if q['imagen']:   # «Pregunta vinculada a la imagen nº 5» → data/img/<año>/5.jpg, si existe
             mi = re.search(r'imagen(?:es)?\s*(?:n\s*[ºo°.]*\s*)?(\d{1,3})', q['enunciado'], re.I)
             if mi and (OUT / 'img' / str(anio) / f'{int(mi.group(1))}.jpg').exists(): img = f'data/img/{anio}/{int(mi.group(1))}.jpg'
+        if (OUT / 'img' / str(anio) / f"q{q['n']}.jpg").exists():   # estructura o figura dibujada dentro del cuaderno (scripts/fir_figuras.py)
+            img = f"data/img/{anio}/q{q['n']}.jpg"; q['imagen'] = True
         out.append({'id': f"{anio}-{q['n']:03d}", 'anio': anio, 'n': q['n'], 'enunciado': q['enunciado'], 'opciones': q['opciones'],
                     'correcta': r if r else None, 'anulada': r == 0, 'imagen': q['imagen'], 'fuente': fuente, **({'img': img} if img else {})})
     inf['ok'] = True
