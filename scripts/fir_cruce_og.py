@@ -166,7 +166,7 @@ def main():
         if oficiales(y): print(f'{y}: ya tiene plantilla oficial; no se toca'); continue
         res, dudas, n = cruza(y, G[y], base)
         print(f'{y}: {len(res)} respuestas de {n} preguntas ({sum(1 for v in res.values() if v == 0)} anuladas) · sin emparejar con seguridad: {dudas}')
-        if len(res) < 0.85 * n: print(f'{y}: cubre menos del 85 %: no se escribe'); continue
+        if len(res) < 0.70 * n: print(f'{y}: cubre menos del 70 %: no se escribe'); continue   # las que no casan se quedan sin respuesta (no entran en simulacros)
         d = RAW / str(y); (d / 'respuestas_cruce.json').write_text(json.dumps({str(k): v for k, v in sorted(res.items())}, indent=0), encoding='utf-8')
         o = d / 'origen.txt'; L = o.read_text(encoding='utf-8').splitlines() if o.exists() else []
         lin = f'plantilla: {URL.format(y)} (cruce por texto con el cuaderno; fuente validada con las plantillas oficiales de {", ".join(map(str, val))}: {pct:.1%} de coincidencia)'
