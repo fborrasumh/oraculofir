@@ -35,6 +35,11 @@
       "name": "Fernando Borrás Rocher",
       "orcid": "0000-0002-5519-4573",
       "affiliation": "Universidad Miguel Hernández de Elche"
+    },
+    {
+      "name": "Vicente Micol Molina",
+      "orcid": "0000-0001-8089-0696",
+      "affiliation": "Universidad Miguel Hernández de Elche"
     }
   ],
   "idea_credit": "Basada en OráculoMIR y OráculoEIR, adaptada al examen FIR.",

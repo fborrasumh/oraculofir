@@ -124,6 +124,9 @@ python3 tests/smoke_test.py        # app completa en Chromium con IA simulada
 ## Autoría
 
 - Fernando Borrás Rocher (Universidad Miguel Hernández de Elche) · ORCID [0000-0002-5519-4573](https://orcid.org/0000-0002-5519-4573)
+- Vicente Micol Molina (Universidad Miguel Hernández de Elche) · ORCID [0000-0001-8089-0696](https://orcid.org/0000-0001-8089-0696)
+
+Ambos autores aceptan la licencia MIT.
 
 Basada en OráculoMIR y OráculoEIR, adaptada al examen FIR.
 
@@ -131,7 +134,7 @@ Fuente de las preguntas oficiales: cuadernos de examen y plantillas definitivas 
 
 ## Cómo citar
 
-Borrás Rocher, F. (2026). *OráculoFIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculofir (DOI en trámite)
+Borrás Rocher, F., y Micol Molina, V. (2026). *OráculoFIR* (v1.0.0) [Software]. https://github.com/fborrasumh/oraculofir (DOI en trámite)
 
 ## Licencia
 
